@@ -1,0 +1,14 @@
+
+graph TD
+    A[DB] -->|syslog| B[syslog]
+    A --> C[journald]
+    B --> D[secure]
+    C --> D 
+    D --> E[web server]
+    A --> E
+    B --> E
+    C --> E
+    B --> F[Cron]
+    C --> F
+    F --> E
+
