@@ -4,5 +4,5 @@ Welcome to TetraPlex, the internet platform that uses anonymity as a means to dr
 
 We are a pre-seed early stage startup looking for potential co-founders.
 
-Please check out our [slide deck](https://github.com/TetraPlex-org/basics/blob/main/Documentation/TetraPlex%20deck%200.51%20-%20dark%20mode.pptx)
+Please check out our [slide deck](https://github.com/TetraPlex-org/basics/blob/main/Documentation/TetraPlex%20deck%200.51%20-%20dark%20mode.pptx) and [proposed features](https://github.com/TetraPlex-org/basics/blob/main/Documentation/Features.md) 
 
