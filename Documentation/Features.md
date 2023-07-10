@@ -12,6 +12,9 @@ The vision is the platform could serve as the aggregator of all your social medi
 
 Interested parties are hereby invited to join the discussion and develop this open source protocol with us.
 
+
+Details to follow like:
+
 A. Base Protocol Specification
 
 B. Integration points / Compatibility with other protocols and tunnels
@@ -19,13 +22,13 @@ B. Integration points / Compatibility with other protocols and tunnels
 C. Media envelope specification for the Com-snippet for aggregation from multiple media sources
 
 
-*To do:  make document for this and link here
-
 ## II. Semi Anonymous Veiled Communication
 
 This addresses the need for anonymous communications as addressed in  our pitch deck.
 
 The veil is like a literal veil that you can put on or off as needed when you want to discuss sensitive matters or just want to enjoy some anonymity and we couple this with a Karma system to ensure good behavior even with or without the veil.
+
+Details to follow like:
 
 A. Veiled Chats
 
@@ -39,7 +42,6 @@ B. Karma System
 2. Demerit Points - what actions reduce karma
 3. Leveling and XP system for access to system
 
-*To do:  make document for this and link here
 
 ## III.  Secure Off the Record (OTR) Communication
 
@@ -47,7 +49,6 @@ Secure and private communication suitable for journalists and whistleblower usin
 
 We also envision enabling easy use of [TOR](https://www.torproject.org/) or VPNs with this feature for enhanced security and anonymity.
 
-*To do:  make document for this and link here
 
 
 
