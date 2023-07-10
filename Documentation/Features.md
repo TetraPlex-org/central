@@ -1,4 +1,5 @@
-# Major Features under discussion
+# Major Features currently under discussion
+___________________________________________
 
 ## I. Asynchronous Communication Snippets (Com-snippets)
 
@@ -13,7 +14,7 @@ The vision is the platform could serve as the aggregator of all your social medi
 Interested parties are hereby invited to join the discussion and develop this open source protocol with us.
 
 
-Details to follow like:
+Details to follow:
 
 A. Base Protocol Specification
 
@@ -28,7 +29,7 @@ This addresses the need for anonymous communications as addressed in  our [pitch
 
 The veil is like a literal veil that you can put on or off as needed when you want to discuss sensitive matters or just want to enjoy some anonymity and we couple this with a Karma system to ensure good behavior even with or without the veil.
 
-Details to follow like:
+Details to follow:
 
 A. Veiled Chats
 
@@ -49,6 +50,9 @@ Secure and private communication suitable for journalists and whistleblower usin
 
 We also envision enabling easy use of [TOR](https://www.torproject.org/) or VPNs with this feature for enhanced security and anonymity.
 
+________________________
+But wait there's more... 
+join us to know ...
 
 
 
