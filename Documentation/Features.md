@@ -46,7 +46,7 @@ B. Karma System
 
 ## III.  Secure Off the Record (OTR) Communication
 
-Secure and private communication suitable for journalists and whistleblower using [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
+Secure and private communication suitable for journalists and whistleblowers using [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
 
 We also envision enabling easy use of [TOR](https://www.torproject.org/) or VPNs with this feature for enhanced security and anonymity.
 
