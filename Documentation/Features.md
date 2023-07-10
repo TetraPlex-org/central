@@ -1,6 +1,8 @@
 # Major Features currently under discussion
 ___________________________________________
 
+TetraPlex would be a multiplatform communication and collaboration tool (Mobile, Web, Desktop clients) with some rather specific features not found in mainstream communication platforms. The features listed below are tentative and subject to change as we refine the concept and work towards a minimum viable product (MVP) and first public release.
+
 ## I. Asynchronous Communication Snippets (Com-snippets)
 
 We are planning to implement a non-real time platform for communication based on the concept of a communication snippet that may contain text, audio and / or video that can be packaged in a container like a packet for distribution via pub / sub mechanism. 
