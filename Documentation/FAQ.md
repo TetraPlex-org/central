@@ -5,7 +5,7 @@ Hence we went with the concept of a non real-time multi-modal communications pla
 
 # Are you open source?
 
-Yes and we will publish the specifications of our async com snippet protocol as an RFC.
+Yes and we will publish the specifications of our async com snippet protocol as a RFC.
 
 # Why is the Github still mostly empty?
 
