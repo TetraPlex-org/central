@@ -5,6 +5,8 @@ Hence we went with the concept of a non real-time multi-modal communications pla
 Multi-modal means support for text, voice and video communication packets.
 We call these packets com-snippets for short but we may just implement text packets for MVP.
 
+Further motivation for this is found in our [deck](TetraPlex%20deck%200.51%20-%20dark%20mode.pptx).
+
 # Are you open source?
 
 Yes and we will publish the specifications of our async com snippet protocol as a RFC.
