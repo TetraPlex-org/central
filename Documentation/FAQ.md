@@ -1,6 +1,7 @@
 # Why are you attempting to build another chat/social network app when there are so many?
 
-We want to enable high quality communication even on connections that have high latency. 
+We want to enable high quality communication even on connections that have high latency.
+
 Hence we went with the concept of a non real-time multi-modal communications platform.
 
 Multi-modal means support for text, voice and video communication packets.
