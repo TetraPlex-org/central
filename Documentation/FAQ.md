@@ -2,6 +2,8 @@
 
 We want to enable high quality communication even on connections that have high latency. 
 Hence we went with the concept of a non real-time multi-modal communications platform.
+Multi-modal means support for text, voice and video communication packets.
+We call these packets com-snippets for short but we may just implement text for MVP.
 
 # Are you open source?
 
