@@ -8,7 +8,7 @@ Multi-modal means support for text, voice and video communication packets.
 
 We call these packets com-snippets for short but we may just implement text packets for MVP.
 
-Further motivation for this is found in our [deck](TetraPlex%20deck%200.52%20-%20dark%20mode.pptx).
+Further motivation for this is found in our [deck](TetraPlex%20deck%200.53%20-%20dark%20mode.pptx).
 
 # Are you open source?
 
