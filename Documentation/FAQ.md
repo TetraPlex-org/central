@@ -1,8 +1,11 @@
-# Who are in your team?
+# Who are in your team currently?
 
-People who are really dedicated to making great open source software and/or industry veterans. 
+People who are really dedicated to making great open source software and/or industry veterans.
+
 We are dreamers with potentially world changing ideas.
+
 We are fun to work and talk with and please check our other github repos. 
+
 If this resonates with you we invite you to contact us to see if you would fit in.
 
 # Why are you attempting to build another chat/social network app when there are so many?
