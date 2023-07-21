@@ -1,3 +1,10 @@
+# Who are in your team?
+
+People who are really dedicated to making great open source software and/or industry veterans. 
+We are dreamers with potentially world changing ideas.
+We are fun to work and talk with and please check our other github repos. 
+If this resonates with you we invite you to contact us to see if you would fit in.
+
 # Why are you attempting to build another chat/social network app when there are so many?
 
 We want to enable high quality communication even on connections that have high latency.
@@ -28,6 +35,8 @@ Yes we need UI/UX people to join us also other people who love front or backend 
 
 We got a few ideas that are still premature to announce... 
 join us to know
+
+
 
 
 
