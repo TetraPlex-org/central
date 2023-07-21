@@ -59,7 +59,7 @@ Once we get a userbase we can datamine end user transactions while being respect
 
 If you are really really shy maybe ask our soon to be developed bot... It won't judge you we promise.
 
-Why Kognitivdienste because German is so much fun! (and other vendors use Cognitive Services)
+Why Kognitivdienste because German is so much fun! (and other vendors use Cognitive Services... kinda boring)
 ________________________
 But wait there's more... 
 join us to know ...
