@@ -52,6 +52,13 @@ Secure and private communication suitable for journalists and whistleblowers usi
 
 We also envision enabling easy use of [TOR](https://www.torproject.org/) or VPNs with this feature for enhanced security and anonymity.
 
+## IV. Kognitivdienste (AI API, chatbots and services)
+
+Once we get a userbase we can datamine end user transactions while being respectful of privacy so that our system can give better answers on top of typical user question and answer (with veil). This is later in the roadmap after we perfect the base protocol and do the veiled Question and Answer feature (for all the questions you are too shy to ask).
+
+If you are really really shy maybe ask our soon to be developed bot... It won't judge you we promise.
+
+Why Kognitivdienste because German is so much fun! (and other vendors use Cognitive Services)
 ________________________
 But wait there's more... 
 join us to know ...
