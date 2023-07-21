@@ -55,7 +55,7 @@ We also envision enabling easy use of [TOR](https://www.torproject.org/) or VPNs
 
 ## IV. Kognitivdienste (AI API, chatbots and services)
 
-Once we get a userbase we can datamine end user transactions while being respectful of privacy so that our system can give better answers on top of typical user question and answer (with veil). This is later in the roadmap after we perfect the base protocol and do the veiled Question and Answer feature (for all the questions you are too shy to ask).
+Once we get a userbase we can datamine end user transactions while being respectful of privacy (one or more of our founders is in the EU so we take this very very seriously) so that our system can give better answers on top of typical user question and answer (with veil). This is later in the roadmap after we perfect the base protocol and do the veiled Question and Answer feature (for all the questions you are too shy to ask).
 
 If you are really really shy maybe ask our soon to be developed bot... It won't judge you we promise.
 
