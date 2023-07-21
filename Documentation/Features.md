@@ -38,6 +38,7 @@ A. Veiled Chats
 1. Veiled Idea Generation (Brainstorm) chats
 2. Veiled Debates
 3. Veiled Job hunting (to ensure candidates are not judged by extraneous info)
+4. Veiled Question and Answer
 
 B. Karma System
 
