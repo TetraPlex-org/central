@@ -27,7 +27,7 @@ C. Media envelope specification for the Com-snippet for aggregation from multipl
 
 ## II. Semi Anonymous Veiled Communication
 
-This addresses the need for anonymous communications as addressed in  our [pitch deck](TetraPlex%20deck%200.53%20-%20dark%20mode.pptx)
+This addresses the need for anonymous communications as addressed in  our [pitch deck](TetraPlex%20deck%200.54%20-%20dark%20mode.pptx)
 
 The veil is like a literal veil that you can put on or off as needed when you want to discuss sensitive matters or just want to enjoy some anonymity and we couple this with a Karma system to ensure good behavior even with or without the veil.
 
