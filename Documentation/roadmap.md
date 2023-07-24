@@ -1,10 +1,11 @@
-# The business goals: 
+# The business goals
 
-# The objectives: 
+# The objectives
 
-# The tasks: 
+# The tasks
 
-# Timings: 
+# Timings
 
-# Responsible parties: 
+# Responsible parties
+
 
