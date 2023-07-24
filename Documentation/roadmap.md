@@ -21,10 +21,15 @@ A. Product
   1. Define Functional Specification
      
      1.1 High level overview of Communications platform features
+
          1.1.1 Security Features
+
          1.1.2 Anonymity and Data Protection Features
+
          1.1.3 Contacts and verified friends list
+
          1.1.4 Karma System
+
          1.1.5 Credit System
      
      
