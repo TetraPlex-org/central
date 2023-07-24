@@ -18,11 +18,15 @@ We aim to build a great corporate culture that welcomes all to join and develop 
 
 A. Product 
   1. Define Functional Specification
+     
      1.1 High level overview of Communications platform features
+     
      1.2 Use Cases
+     
      1.3 Make Product Backlog
   
   2. Define Technical Specification
+     
      2.1 RFC for Com Snippet Protocol
      
   3. Define Initial Prototype and Tech Spikes
@@ -34,7 +38,7 @@ A. Product
 
 # Timings
 
-Uncertain at the moment since we are still discussing a lot of the abovementiones
+Uncertain at the moment since we are still discussing a lot of the abovementioned
 
 # Responsible parties
 
