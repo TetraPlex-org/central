@@ -11,6 +11,10 @@ C.	Employee/ Cofounder Goal
 
 By October 2023, find other members and cofounders of the team to fill gaps in our skill sets and / or develop the skills ourselves to build a great founding team on incorporation.
 
+We aim to build a great corporate culture that welcomes all to join and develop themselves in an atmosphere of high trust, autonomy and accountability for outcomes and embrace failure as learning opportunities so that risk taking and experimentation is encouraged.
+
+
+
 # The objectives
 
 # The tasks
