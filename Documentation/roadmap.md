@@ -14,15 +14,29 @@ By October 2023, find other members and cofounders of the team to fill gaps in o
 
 We aim to build a great corporate culture that welcomes all to join and develop themselves in an atmosphere of high trust, autonomy and accountability for outcomes and embrace failure as learning opportunities so that risk taking and experimentation is encouraged.
 
-
-# The objectives
-
-A
-
 # The tasks
+
+A. Product 
+  1. Define Functional Specification
+     1.1 High level overview of Communications platform features
+     1.2 Use Cases
+     1.3 Make Product Backlog
+  
+  2. Define Technical Specification
+     2.1 RFC for Com Snippet Protocol
+     
+  3. Define Initial Prototype and Tech Spikes
+     3.1 Com Snippet Protocol Reference Implementation
+     
+  4. Build MVP
+     
+  5. Define Long Term and short term Feature Roadmap
 
 # Timings
 
+Uncertain at the moment since we are still discussing a lot of the abovementiones
+
 # Responsible parties
 
+Team is probably incomplete need more collaborators
 
