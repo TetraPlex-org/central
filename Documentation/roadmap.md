@@ -36,19 +36,19 @@ A. Product
      
      1.2 Use Cases
      
-     1.3 Make Product Backlog
+     1.3 Product Backlog
   
-  3. Define Technical Specification
+  3. Technical Specification
      
      2.1 RFC for Com Snippet Protocol
      
-  4. Define Initial Prototype and Tech Spikes
+  4. Initial Prototype and Tech Spikes
      
      3.1 Com Snippet Protocol Reference Implementation
      
-  5. Build MVP
+  5. MVP
      
-  6. Define Long Term and short term Feature Roadmap
+  6. Long Term and short term Feature Roadmap
      
 B. Financial
 
