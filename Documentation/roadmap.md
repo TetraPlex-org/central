@@ -31,7 +31,8 @@ A. Product
          1.1.4 Karma System
 
          1.1.5 Credit System
-     
+
+         1.1.6 Ad Platform
      
      1.2 Use Cases
      
