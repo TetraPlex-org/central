@@ -1,6 +1,6 @@
 # The business goals
 
-A.	Social Media Goal
+A.	Product Goal
 
 By the end of August 2024, have a functional asynchronous communications platform that is secure, easy to use and delivers text, video and audio of reliably high quality regardless of latency or network quality. The platform should be able to integrate with other existing communications platforms and support both veiled and non-veiled mode.
 
@@ -16,6 +16,8 @@ We aim to build a great corporate culture that welcomes all to join and develop 
 
 
 # The objectives
+
+A
 
 # The tasks
 
