@@ -18,7 +18,7 @@ We aim to build a great corporate culture that welcomes all to join and develop 
 
 A. Product 
 
-  1. Define Functional Specification
+  1. Functional Specification
      
      1.1 High level overview of Communications platform features
 
