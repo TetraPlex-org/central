@@ -30,6 +30,7 @@ A. Product
      2.1 RFC for Com Snippet Protocol
      
   3. Define Initial Prototype and Tech Spikes
+     
      3.1 Com Snippet Protocol Reference Implementation
      
   4. Build MVP
