@@ -21,22 +21,28 @@ A. Product
   1. Define Functional Specification
      
      1.1 High level overview of Communications platform features
+         1.1.1 Security Features
+         1.1.2 Anonymity and Data Protection Features
+         1.1.3 Contacts and verified friends list
+         1.1.4 Karma System
+         1.1.5 Credit System
+     
      
      1.2 Use Cases
      
      1.3 Make Product Backlog
   
-  2. Define Technical Specification
+  3. Define Technical Specification
      
      2.1 RFC for Com Snippet Protocol
      
-  3. Define Initial Prototype and Tech Spikes
+  4. Define Initial Prototype and Tech Spikes
      
      3.1 Com Snippet Protocol Reference Implementation
      
-  4. Build MVP
+  5. Build MVP
      
-  5. Define Long Term and short term Feature Roadmap
+  6. Define Long Term and short term Feature Roadmap
      
 B. Financial
 
