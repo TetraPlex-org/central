@@ -44,7 +44,7 @@ B. Financial
      
   2. Find Angel Investors
   
-  3. Apply to Incubator
+  3. Apply to Incubator / Accelerator
   
   4. Seed Round(s)
 
