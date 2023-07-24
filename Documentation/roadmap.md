@@ -45,3 +45,6 @@ Uncertain at the moment since we are still discussing a lot of the abovementione
 
 Team is probably incomplete need more collaborators
 
+_________________________________________________________
+This Document is highly speculative and subject to change
+_________________________________________________________
