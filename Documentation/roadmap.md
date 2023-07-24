@@ -20,7 +20,7 @@ A. Product
 
   1. Functional Specification
      
-     1.1 High level overview of Communications platform features
+     1.1 High level Overview
 
          1.1.1 Security Features
 
