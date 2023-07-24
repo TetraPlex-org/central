@@ -26,7 +26,7 @@ A. Product
 
          1.1.2 Anonymity and Data Protection Features
 
-         1.1.3 Contacts and verified friends list
+         1.1.3 Contacts / verified friends list
 
          1.1.4 Karma System
 
