@@ -1,4 +1,4 @@
-# The business goals
+# The business goals / objectives
 
 A.	Product Goal
 
@@ -17,6 +17,7 @@ We aim to build a great corporate culture that welcomes all to join and develop 
 # The tasks
 
 A. Product 
+
   1. Define Functional Specification
      
      1.1 High level overview of Communications platform features
@@ -36,6 +37,24 @@ A. Product
   4. Build MVP
      
   5. Define Long Term and short term Feature Roadmap
+     
+B. Financial
+
+  1. Define Business Model(s)
+     
+  2. Find Angel Investors
+  
+  3. Apply to Incubator
+  
+  4. Seed Round(s)
+
+C. Employee / Cofounder
+
+  1. Define the skill sets needed to support the business as a whole
+
+  2. Find gaps
+
+  3. Fill gaps by recruiting or training  
 
 # Timings
 
