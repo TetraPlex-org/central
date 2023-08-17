@@ -17,7 +17,7 @@ Revision History:
 
 There are many social media apps in existence already but many of them amplify the wrong views (see fake news) or is toxic (see Social Media trolls and online bullying). This is caused by their business model of being free but serving online advertisements.
 
-What will differentiate us from the competitors is a karma system that will promote positive interactions. While it is true that others like Reddit have a karma system but we intend to base what permissions a user has in the social network on user karma level (can be positive or negative).
+What will differentiate us from the competitors is a karma system that will promote positive interactions and while it is true that others like Reddit have a karma system we intend to base what permissions a user has in the social network on user karma level (can be positive or negative).
 
 We will also have a veil feature for anonymous chat that can be turned on or off at will for interactions that could benefit from user anonymity. The user can still have karma added or deducted based on end user ratings after veiled interactions.
 
