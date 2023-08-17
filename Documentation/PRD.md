@@ -37,6 +37,8 @@ This section describes the overall objective of the product, rough timelines and
 | Vision | The high priority items will be executed first for the MVP |
 | Goals | Launch MVP by TBD (need to get funding) |
 | Personas | This product has multiple target audiences
+
+ ## Persona List
 * Alice wants to have her questions answered but is too shy to ask the questions fearing that her online reputation maybe tarnished (Veiled Q&A)
 * Bob wants to have serious discussions and debates with like minded individuals and / or idea generation sessions (Veiled Debates / Brainstorming sessions)
 * Carol is not serious at all just wants to have fun with people online, socialize and possibly use the app to make friends since she is socially awkward. She uses the veiled chats to overcome this and make friends
