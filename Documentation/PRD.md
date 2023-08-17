@@ -33,7 +33,7 @@ This app will be a multimodal/ multiplatform application that supports text, voi
 This section describes the overall objective of the product, rough timelines and target customer profiles.
 
 | Section | Examples |
-| :--- | :----: |
+| :--- | :---- |
 | Vision | The high priority items will be executed first for the MVP |
 | Goals | Launch MVP by TBD (need to get funding) |
 | Personas | This product has multiple target audiences (see below) |
