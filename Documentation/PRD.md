@@ -4,7 +4,7 @@ Team: Still being assembled
 
 Author(s): Joel Alcarez, Anselm Kiefner
 
-Project Name: Tetraplex
+Project Name: Tetraplex MVP
 
 Revision History:
 
