@@ -8,7 +8,7 @@ Project Name: Tetraplex MVP
 
 Revision History:
 
-| Version Number | Primary Authors | Version Description | Date Complete |
+| Version Number | Version Description | Primary Authors | Date Complete |
 | :--- | :----: |:----: | ---: |
 | v1.0 | Initial Draft | Joel Alcarez | 08/17/2023 |
 
