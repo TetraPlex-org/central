@@ -12,3 +12,53 @@ The queue-pool is then unlocked and the remaining offers are queued at the top o
 
 This ensures that old offers are always handled first and that the price is always the same for all users. It also ensures that users can't game the system by making multiple bids with different prices.
 It ensures a stable price and a fair distribution of karma/credits with maximum efficiency.
+
+```mermaid
+---
+title: Exchange
+---
+classDiagram
+    class User{
+        +make_offer()
+    }
+    KarmaAuction <|-- Auction
+    CreditAuction <|-- Auction
+    class Auction
+    class Offer
+    class Bid{
+
+
+    }
+
+```
+
+
+```mermaid
+---
+title: Animal example
+---
+classDiagram
+    note "From Duck till Zebra"
+    Animal <|-- Duck
+    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
+
+```
