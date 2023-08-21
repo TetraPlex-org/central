@@ -19,46 +19,52 @@ title: Exchange
 ---
 classDiagram
     class User{
-        +make_offer()
+        -Fraction gifted_karma
+        -Fraction tradeable_karma
+        -Fraction credits
+        make_karma_offer()
+        make_credit_offer()
+        make_bid4karma()
+        make_bid4credit()
     }
+    User "1" --o "1" KarmaOffer : makes {Offer <= User.tradeable_karma>}
+    User "1" --o "1" CreditOffer : makes {Offer <= User.credits}
+    User "1" --o "*" Bid4Karma : makes {Bid <= User.credits}
+    User "1" --o "*" Bid4Credit : makes {Bid <= User.tradeable_karma}
+
     KarmaAuction <|-- Auction
+    KarmaAuction --o "*" KarmaOffer : has {Offer}
+    KarmaAuction --o "*" Bid4Karma : has {Bid}
     CreditAuction <|-- Auction
-    class Auction
-    class Offer
+    CreditAuction --o "*" CreditOffer : has {Offer}
+    CreditAuction --o "*" Bid4Credit : has {Bid}
+
+    Bid4Karma <|-- Bid
+    Bid4Credit <|-- Bid
+
+    class Auction{
+        +add_offer()
+        +add_bid()
+        +lock()
+        +unlock()
+        +solve()
+        +pay_out()
+        -queue offers
+        -list bids
+    }
+    class Offer{
+        -int amount
+        -float timestamp
+        +change_amount()
+        +cancel()
+    }
+    KarmaOffer <|-- Offer
+    CreditOffer <|-- Offer
     class Bid{
-
-
-    }
-
-```
-
-
-```mermaid
----
-title: Animal example
----
-classDiagram
-    note "From Duck till Zebra"
-    Animal <|-- Duck
-    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
-        +String beakColor
-        +swim()
-        +quack()
-    }
-    class Fish{
-        -int sizeInFeet
-        -canEat()
-    }
-    class Zebra{
-        +bool is_wild
-        +run()
+        -int amount
+        -int price
+        -float timestamp
+        +retract()
     }
 
 ```
