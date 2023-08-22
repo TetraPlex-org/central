@@ -1,0 +1,1 @@
+This folder is for everything that has no place in the official documentation - unrealized ideas and other stuff that has no other place.
