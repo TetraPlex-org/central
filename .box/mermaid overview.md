@@ -5,7 +5,7 @@ graph TD
     A[shipper] -->|syslog| B[syslog]
     A --> C[journald]
     B --> D[secure]
-    C --> D 
+    C --> D
     D --> E[forwarder]
     A --> E
     B --> E
@@ -86,4 +86,36 @@ sequenceDiagram %% diagram
   rect rgba(128, 128, 128, 0.5)
     B->>C: So colourful!
   end
+```
+
+```mermaid
+classDiagram
+  classA --|> classB : Inheritance
+  classC --* classD : Composition
+  classE --o classF : Aggregation
+  classG --> classH : Association
+  classI -- classJ : Link(Solid)
+  classK ..> classL : Dependency
+  classM ..|> classN : Realization
+  classO .. classP : Link(Dashed)
+
+```
+
+
+```mermaid
+classDiagram
+namespace BaseShapes {
+    class Triangle
+    class Rectangle {
+      double width
+      double height
+    }
+}
+```
+
+```mermaid
+classDiagram
+    Customer "1" --> "*" Ticket
+    Student "1" --> "1..*" Course
+    Galaxy --> "many" Star : Contains
 ```
