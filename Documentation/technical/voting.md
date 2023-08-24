@@ -52,7 +52,7 @@ classDiagram
         -int rating
     }
 
-
+[define rating scale rating mechanism]
 
 ```
 
