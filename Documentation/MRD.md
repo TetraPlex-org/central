@@ -58,7 +58,7 @@ We can have a persona marketplace where artists can make 2D or 3D graphics that 
 
 C. Karma and Credits
 
-The system will have two currencies to facilite tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into anb in network virtual currency.
+The system will have two currencies to facilite tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into an in network virtual currency.
 
 (elaborated differnces further here)
     
