@@ -14,7 +14,7 @@ We assume that there is a need for a social network that is less toxic and is ab
 
 
 ## III. Target Market
-It contains details like demographics and buying behaviors. The target market should also outline its size, potential growth, and relevant trends.
+It contains details like demographics and buying behaviors. The target market should also outline its size, potential growth, and relevant trends. (I think som of this is in the deck but we need detaile market research to justify building this
 
 ## IV. Personas
 
@@ -27,11 +27,15 @@ It contains details like demographics and buying behaviors. The target market sh
 ## V. Competitor Analysis
 Identify and check the strengths and weaknesses of your competitors. It involves researching their marketing strategies to gain insight into their business practices.
 
+
 ## VI. High-level Capabilities
 These main features and functionalities should meet the target market's needs. Describe high-level capabilities without going into specific technical details.
 
 (We will define what our product will do here... what... ) (how comes later)
 
+The core feature of the product is the veiled chat
 
-## Metrics. 
+
+
+## VII. Metrics
 Measure the product's performance against the defined objectives. The impact provides insights into areas that need improvement.
