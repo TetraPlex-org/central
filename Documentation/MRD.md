@@ -58,9 +58,9 @@ We can have a persona marketplace where artists can make 2D or 3D graphics that 
 
 C. Karma and Credits
 
-The system will have two currencies to facilite tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into an in network virtual currency.
+The system will have two currencies to facilite tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps) 
 
-(elaborated differnces further here)
+The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of not collecting too much information from the users of online platforms.
     
 D. Formal and Informal Debates
 
