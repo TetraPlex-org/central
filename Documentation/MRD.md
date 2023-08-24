@@ -10,13 +10,13 @@ We assume that there is a need for a social network that is less toxic and is ab
 
 ## II. Vision
 
-(something that we can share in an incubator pitch)
+(something that we can share in an incubator pitch) maybe paste your vision and I can edit
 
 
 ## III. Target Market
 
 It contains details like demographics and buying behaviors. The target market should also outline its size, potential growth, and 
-relevant trends. (I think some of this is in the deck but we need detaile market research to justify building this and selling this project to potential investors)
+relevant trends. (I think some of this is in the deck but we need detailed market research to justify building this and selling this project to potential investors) can we find someone proficient in doing market research?
 
 ## IV. Personas
 
@@ -38,8 +38,13 @@ These main features and functionalities should meet the target market's needs. D
 
 (We will define what our product will do here... what... ) (how comes later)
 
-The core feature of the product is the veiled chat
+A. Veiled Chats
+    
+B. Formal and Informal Debates
 
+C. Question and Answer
+
+D.
 
 ## VII. Metrics
 
