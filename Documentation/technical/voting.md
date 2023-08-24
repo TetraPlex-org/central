@@ -45,14 +45,14 @@ classDiagram
         -str description_en
         -str description_de
     }
-    [Why just en and de thou can we make another class for localization and use language independent tokens  (can be string) for the skill desc or any desc]
+    %% Why just en and de thou can we make another class for localization and use language independent tokens  (can be string) for the skill desc or any desc
 
     class SkillRating{
         -Skill skill
         -int rating
     }
 
-[define rating scale rating mechanism]
+%% define rating scale rating mechanism
 
 ```
 
