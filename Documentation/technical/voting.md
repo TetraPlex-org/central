@@ -3,16 +3,30 @@
 
 
 ## Liquid Democracy
-In the fast-paced world of technology or in intense global competition for markets and talent (nearly all companies not just those in tech.), it is essential to be able to make decisions quickly and efficiently to stay competitive.  This need for speed is especially true in the realm of software development where the time to market is crucial but also for any other product or service categories characterized short product life cycles, quick turnaround and obsolescence. Given the relentless time to market pressures, if the company needs to make decisions quickly or be outcompeted an authoritarian form of government like a dictatorship would be the obvious choice or top down decision making in the context of corporations or organizations but research on swarm intelligence has shown that a group of people can make better decisions than a single person (need citation) and this is especially true if the group is diverse and the members have different backgrounds and experiences. (need citation) The advantage of a democracy or bottom up decision making also extends to parties having buy-in to the decision having been created via a voting mechanism rather than having a decision imposed on them top down. Given that many teams are now globally distributed it maybe indeed difficult for many teams embracing a bottom up decsion making ethos to make timely decisions due to the time zone differences and need to consult many parties versus top down approaches. This is where Liquid Democracy comes into play can faclitate relatively faster decision making versus traditional voting processes without resorting to top down approaches.
+In the fast-paced world of technology or in intense global competition for markets and talent, it is essential to be able to make decisions quickly and efficiently to stay competitive.  This need for speed is especially true in the realm of software development where the time to market is crucial but also for any other product or service categories characterized short product life cycles, quick turnaround and obsolescence. Given the relentless time to market pressures, if the company needs to make decisions quickly or be outcompeted an authoritarian form of government like a dictatorship would be the obvious choice or top down decision making in the context of corporations or organizations but research on swarm intelligence has shown that a group of people can make better decisions than a single person (need citation) and this is especially true if the group is diverse and the members have different backgrounds and experiences. (need citation) The advantage of a democracy or bottom up decision making also extends to parties having buy-in to the decision having been created via a voting mechanism rather than having a decision imposed on them top down. Given that many teams are now globally distributed it maybe indeed difficult for many teams embracing a bottom up decsion making ethos to make timely decisions due to the time zone differences and need to consult many parties versus top down approaches. This is where Liquid Democracy comes into play can faclitate relatively faster decision making versus traditional voting processes without resorting to top down approaches.
 
 
-## Users, Devices and Personas
+## Users, Devices and Personas - Identity
+A *Person* is a natural, legal person by definition of law. This represents the organic being behind the device in meatspace. A *User* is a digital identity, an account, that is associated with a *Person* and is used to interact with the system. A *User* can have multiple *Devices* associated with it. A device can be owned by a single specific Person, who has owned *Device* is a digital identity that is associated with a *User* and is used to interact with the system. A *Device* can be a computer, a smartphone, a tablet, a smartwatch, a smart speaker, a smart TV, a smart fridge, a smart car, a smart home, a smart city, a smart planet, a smart universe, a smart multiverse, a smart omniverse, a smart metaverse, a smart megaverse, a smart xenoverse, a smart hyperverse, a smart brane, a smart universe cluster, a smart multiverse cluster, a smart omniverse cluster, a smart metaverse cluster, a smart megaverse cluster, a smart xenoverse cluster, a smart hyperverse cluster. (Nevermind that, I got carried away.)
 
+A Person has a uniquely identifiable identity with data required to be especially well protected (in a seperate database for example, or some blockchain).
 
 
 ```mermaid
 classDiagram
-    class User
+    class Person{
+        -str legal_name
+        -str legal_address
+        -str legal_id
+        -str bank_account
+        -str phone_number
+    }
+
+    class User{
+        -uuid user_id
+        -str user_name
+
+    }
 
     class Device{
         -uuid device_id
@@ -24,7 +38,11 @@ classDiagram
         -str device_browser_version
     }
 
-    class Persona
+    class Persona{
+        -str persona_name
+        -str persona_description
+        -str persona_image
+    }
 
     User --o Device : owns
 ```
