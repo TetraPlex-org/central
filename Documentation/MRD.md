@@ -14,7 +14,7 @@ We assume that there is a need for a social network that is less toxic and is ab
 ## Target Market. 
 It contains details like demographics and buying behaviors. The target market should also outline its size, potential growth, and relevant trends.
 
-##Personas. 
+## Personas. 
 
 * Alice wants to have her questions answered but is too shy to ask the questions fearing that her online reputation maybe tarnished * Bob wants to have serious discussions and debates with like minded individuals and / or idea generation sessions 
 * Carol is not serious at all just wants to have fun with people online, socialize and possibly use the app to make friends since she is socially awkward. She uses the veiled chats to overcome this and make friends
