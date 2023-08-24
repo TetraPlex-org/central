@@ -42,8 +42,9 @@ These main features and functionalities should meet the target market's needs. D
 
 A. Veiled Chats
 
-Veiled Chats is a communications mode that allows you to interact without revealing your identity.
-You can have a veiled chat as a generic anonymous user or use karma or credits to upgrade that temporary hidden identity to a special shared public identity (Public Personas) like Santa Claus or the Devil for fun.
+Veiled Chats is a special communications mode that allows you to interact without revealing your identity. This mode goes beyond changing your user handle or text it also issues a special non reusuable identity token that cannoty be traced back to your normal login in the system just in case the people your are interacting with online are technical and able to do digital forensics.
+
+You can have a veiled chat as a generic anonymous user or use karma or credits to upgrade that temporary hidden identity to a special shared public identity (Public Personas) like Santa Claus or the Devil for fun. These chats are meant to help overcome social anxiety in participants in the social network and faciliate the flow of ideas when otherwise you maybe too shy or afraid to speak out.
 
 B. Personas
 
