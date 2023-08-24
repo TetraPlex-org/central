@@ -50,7 +50,7 @@ You can have a veiled chat as a generic anonymous user or use karma or credits t
 
 B. Personas
 
-Personas in the context of this proposed social network is like a costume you put on and assume identity of for some  indefinite period of time while interacting with others in the social network. They can be your own private persona and you can opt tpo have multiple personas if you got enough karma or credit or a public persona like Santa that you can temporarily rent for special occasions or for no paricular reason at all.
+Personas in the context of this proposed social network is like a costume you put on and assume identity of for some  indefinite period of time while interacting with others in the social network. They can be your own private persona and you can opt to have multiple personas if you got enough karma or credit or a public persona like Santa that you can temporarily rent for special occasions or for no paricular reason at all.
 
 We can have virtual star trek ore furry conventions in the system in which paricular  fandoms and communities can "wear" their personas and have virtual social interactions as their persona with full roleplay.
 
