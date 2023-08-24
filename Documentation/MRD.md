@@ -1,4 +1,4 @@
-## Market Requirements Document 
+# Market Requirements Document 
 
 Author(s): Joel Alcarez, Anselm Kiefner
 
@@ -10,7 +10,8 @@ We assume that there is a need for a social network that is less toxic and is ab
 
 ## II. Vision
 
-(something that we can share in an incubator pitch) maybe paste your vision and I can edit
+(something that we can share in an incubator pitch) 
+maybe paste your vision and I can edit
 
 
 ## III. Target Market
@@ -26,10 +27,11 @@ relevant trends. (I think some of this is in the deck but we need detailed marke
 
 * Carol is not serious at all just wants to have fun with people online, socialize and possibly use the app to make friends since she is socially awkward. She uses the veiled chats to overcome this and make friends
 
+(we need additional personas... who are our target users)
 
 ## V. Competitor Analysis
 
-Identify and check the strengths and weaknesses of your competitors. It involves researching their marketing strategies to gain insight into their business practices.
+Identify and check the strengths and weaknesses of your competitors. It involves researching their marketing strategies to gain insight into their business practices. (Yes we need this who are we really competing against...)
 
 
 ## VI. High-level Capabilities
@@ -39,12 +41,14 @@ These main features and functionalities should meet the target market's needs. D
 (We will define what our product will do here... what... ) (how comes later)
 
 A. Veiled Chats
+
+The Veiled Chat is... 
     
 B. Formal and Informal Debates
 
 C. Question and Answer
 
-D.
+D. Com
 
 ## VII. Metrics
 
