@@ -6,7 +6,7 @@ Project Name: Tetraplex
 
 ## I. Executive Summary
 
-We assume that there is a need for a social network that is less toxic and is able to proivide better value for the end user compared to the ones that currently exist in the market. The existence of "fake news" and social media bullying highlights this need for a better social network with positive dynamics rather than the current ad driven model that leads to bad actors being amplified for the sake of ad revenue. You are the product being sold in these so called free social networks and this means they serve the advertisers interest rather than yours primarily.  We also want to serve ads but we will give more power and agency to the users of our social network and bring about positive rather than negative feedback loops in the system making the system better and less toxic the more it is used. To that end we will have karma and credits to help nudge the system in a positive feedback loop and rely less on ads than our competitors. 
+We assume that there is a need for a social network that is less toxic and is able to provide better value for the end user compared to the ones that currently exist in the market. The existence of "fake news" and social media bullying highlights this need for a better social network with positive dynamics rather than the current ad driven model that leads to bad actors being amplified for the sake of ad revenue. You are the product being sold in these so called free social networks and this means they serve the advertisers interest rather than yours primarily.  We also want to serve ads but we will give more power and agency to the users of our social network and bring about positive rather than negative feedback loops in the system making the system better and less toxic the more it is used. To that end we will have karma and credits to help nudge the system in a positive feedback loop and rely less on ads than our competitors. 
 
 ## II. Vision
 
@@ -58,7 +58,7 @@ We can have a persona marketplace where artists can make 2D or 3D graphics that 
 
 C. Karma and Credits
 
-The system will have two currencies to facilite tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps) 
+The system will have two currencies to facilitate tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps) 
 
 The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of not collecting too much information from the users of online platforms.
     
