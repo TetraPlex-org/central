@@ -25,7 +25,9 @@ relevant trends. (I think some of this is in the deck but we need detailed marke
 
 * Bob wants to have serious discussions and debates with like minded individuals and / or idea generation sessions 
 
-* Carol is not serious at all just wants to have fun with people online, socialize and possibly use the app to make friends since she is socially awkward. She uses the veiled chats to overcome this and make friends
+* Carol is not serious at all just wants to have fun with people online, socialize and possibly use the app to make friends since she is socially awkward. She uses the veiled chats to overcome this and make friends.
+
+* Dave is a role player and a serious fan of Star Trek. He wants to have fun and chat with random people as Spock.
 
 (we need additional personas... who are our target users)
 
@@ -47,6 +49,8 @@ Veiled Chats is a special communications mode that allows you to interact withou
 You can have a veiled chat as a generic anonymous user or use karma or credits to upgrade that temporary hidden identity to a special shared public identity (Public Personas) like Santa Claus or the Devil for fun. These chats are meant to help overcome social anxiety in participants in the social network and faciliate the flow of ideas when otherwise you maybe too shy or afraid to speak out.
 
 B. Personas
+
+Personas in the context of 
 
 C. Karma and Credits
     
