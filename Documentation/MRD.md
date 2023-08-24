@@ -48,7 +48,7 @@ C. Formal and Informal Debates
 
 D. Question and Answer
 
-E. Com snippets and async chat
+E. Com snippets and async chat features
 
 F. Avatar chat
 
