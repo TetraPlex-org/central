@@ -42,15 +42,20 @@ These main features and functionalities should meet the target market's needs. D
 
 A. Veiled Chats
 
-B. Karma and Credits
+Veiled Chats is a communications mode that allows you to interact without revealing your identity.
+You can have a veiled chat as a generic anonymous user or use karma or credits to upgrade that temporary hidden identity to a special shared public identity (Public Personas) like Santa Claus or the Devil for fun.
+
+B. Personas
+
+C. Karma and Credits
     
-C. Formal and Informal Debates
+D. Formal and Informal Debates
 
-D. Question and Answer
+E. Question and Answer
 
-E. Com snippets and async chat features
+F. Com snippets and async chat features
 
-F. Avatar chat
+G. Avatar chat
 
 (what else have we chat about just write it down I will edit)
 
