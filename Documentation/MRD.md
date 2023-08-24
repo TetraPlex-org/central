@@ -42,13 +42,17 @@ These main features and functionalities should meet the target market's needs. D
 
 A. Veiled Chats
 
-The Veiled Chat is... 
+B. Karma and Credits
     
-B. Formal and Informal Debates
+C. Formal and Informal Debates
 
-C. Question and Answer
+D. Question and Answer
 
-D. Com
+E. Com snippets and async chat
+
+F. Avatar chat
+
+(what else have we chat about just write it down I will edit)
 
 ## VII. Metrics
 
