@@ -1,12 +1,10 @@
 # Liquid Democracy & Condorcet Voting with transparent Skill Rating: A Path to fair, meritocratic and efficient governance
-As a company in the fast-paced world of technology, it is important to be able to make decisions quickly and efficiently. This is especially true for the development of software, where the time to market is crucial.
-If the prime goal is to make decisions quickly, an authoritarian government like a dictatorship would be the obvious choice. However, research on swarm intelligence has shown that a group of people can make better decisions than a single person. This is especially true if the group is diverse and the members have different backgrounds and experiences. However, if the group is distributed over the world, it is difficult to make decisions efficiently due to the time difference. This is where Liquid Democracy comes into play.
 
 
 
 ## Liquid Democracy
-Liquid Democracy is a form of democracy that allows for efficient decision making while still being fair and meritocratic. It is a form of direct democracy where you can vote on issues directly, but you can also delegate your vote to another person or comittee if you don't have time to dig into an issue or don't feel confident enough about a subject. This way, the decision making process is much more efficient and fair. It also allows for a more meritocratic system, where people who are more knowledgeable about a certain topic can have more influence on the decision making process.
-It is important however to be able to trust the people you delegate your vote to. This is where the transparent skill rating system comes into play. It allows you to see how much influence a person has on a certain topic and how they got there. This way, you can decide if you want to delegate your vote to them or not.
+In the fast-paced world of technology or in intense global competition for markets and talent (nearly all companies not just those in tech.), it is essential to be able to make decisions quickly and efficiently to stay competitive.  This need for speed is especially true in the realm of software development where the time to market is crucial but also for any other product or service categories characterized short product life cycles, quick turnaround and obsolescence. Given the relentless time to market pressures, if the company needs to make decisions quickly or be outcompeted an authoritarian form of government like a dictatorship would be the obvious choice or top down decision making in the context of corporations or organizations but research on swarm intelligence has shown that a group of people can make better decisions than a single person (need citation) and this is especially true if the group is diverse and the members have different backgrounds and experiences. (need citation) The advantage of a democracy or bottom up decision making also extends to parties having buy-in to the decision having been created via a voting mechanism rather than having a decision imposed on them top down. Given that many teams are now globally distributed it maybe indeed difficult for many teams to make decisions quickly due to the time zone differences and need to consult many parties versus top down approaches. This is where Liquid Democracy comes into play can faclitate relatively faster decision making versus traditional voting processes without resorting to top down approaches.
+
 
 ## Users, Devices and Personas
 
@@ -34,7 +32,8 @@ classDiagram
 
 
 ## Skill Rating
-To judge
+To faciliate transparent and fair relative skill ranking among the pool of voters participating in a system that leverages liquid democratic principles, we have to make this rating public when needed in the context of voting on a particular issue or topic. These ratings will be user generated based on the interactions between the users (voters) and mechanisms (both structured and non structured) such as formal and informal debates and discussions can help populate these skill ratings. Skill ratings could as also be possibly be obtained via self administered tests but cheating in said tests have to be considered. No skill rating system is perfect and there could be bias in skill assessment if the criteria for assessing the skill is subjective but it is near impossible to make standardized skill assessment tests in nearly all pertinent issues (also who has time and inclination to take these all these exams). If we rely on subjective relative skill evaluation by peers we gotta ensure that a large enough cohort do rate otherwise the skill ratings maybe not really accurate or subject to bias or collusion among parties to bump up each others ratings.
+
 
 ```mermaid
 classDiagram
@@ -46,6 +45,8 @@ classDiagram
         -str description_en
         -str description_de
     }
+    [Why just en and de thou can we make another class for localization and use language independent tokens  (can be string) for the skill desc or any desc]
+
     class SkillRating{
         -Skill skill
         -int rating
@@ -59,4 +60,4 @@ classDiagram
 ## Condorcet Voting
 Condorcet Voting is a form of preferential voting, where you can rank the options in order of preference. The winner is the candidate that wins against all other candidates in a head-to-head comparison. This way, the winner is the candidate that is preferred by the majority of the voters. This is especially important in a democracy, where the goal is to represent the will of the people, not just the majority, but also the minority. In contrast to any other voting system, condorcet voting prevents the spoiler effect, where a candidate can win by splitting the votes of the majority. It also prevents the chicken dilemma, where a candidate can win by being the least bad option. This way, the winner is always the candidate that is preferred by the majority of the voters.
 
-There is a backdraw though. In rare instances, there is no candidate that wins against all other candidates. This is called a condorcet paradox. In this case, the winner is determined by a tiebreaker. This can be a random tiebreaker, but it can also be a tiebreaker based on the skill rating of the voters. This way, the winner is the candidate that is preferred by the voters with the highest skill rating. This way, the winner is the candidate that is preferred by the most knowledgeable voters.
+In rare instances, there can be a drawback when there is no candidate that wins against all other candidates and this is called a condorcet paradox. In this case, the winner is determined by a tiebreaker. This can be a random tiebreaker, but it can also be a tiebreaker based on the skill rating of said candidates as assessed by the voters. This way, the winner is the candidate that is preferred by the voters with the highest skill rating. This way, the winner is the candidate that is preferred by the most knowledgeable voters.
