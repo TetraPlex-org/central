@@ -1,4 +1,4 @@
-# Market Requirements Document 
+# Market Requirements Document
 
 Author(s): Joel Alcarez, Anselm Kiefner
 
@@ -22,7 +22,7 @@ The target market of our proposed social media platform is essentially anyone on
 
 * Alice wants to have her questions answered but is too shy to ask the questions fearing that her online reputation maybe tarnished
 
-* Bob wants to have serious discussions and debates with like minded individuals and / or idea generation sessions 
+* Bob wants to have serious discussions and debates with like minded individuals and / or idea generation sessions
 
 * Carol is not serious at all just wants to have fun with people online, socialize and possibly use the app to make friends since she is socially awkward. She uses the veiled chats to overcome this and make friends.
 
@@ -34,89 +34,108 @@ The target market of our proposed social media platform is essentially anyone on
 
 ## V. Competitor Analysis
 
-There are claims online that the age of social media is over (see https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/) but that is a consequence of the negative dynamics of their free to use ad supported networks where you are sold as an eyeball. We will take over from the ashes of this broken and toxic social media landscape and be the oasis (here is a  fun fan reference https://readyplayerone.fandom.com/wiki/OASIS) in more ways than one. We think social media isn't dead since we still need to interact and transact online. It is merely waiting to be reborn and remade, reincarnated in better form.
+There are claims online that the [age of social media is over](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/) but that is a consequence of the negative dynamics of their free to use ad supported networks where you are sold as an eyeball. We will take over from the ashes of this broken and toxic social media landscape and be the [oasis](https://readyplayerone.fandom.com/wiki/OASIS) in more ways than one. We think social media isn't dead since we still need to interact and transact online. It is merely waiting to be reborn and remade, reincarnated in better form.
 
 
 ## VI. High-level Capabilities
 
 These main features and functionalities should meet the target market's needs. Describe high-level capabilities without going into specific technical details. (We will define what our product will do here... what... why...) (how comes later)
 
-A. Veiled Chats
+### A. Veiled Chats
 
 Veiled Chats is a special communications mode that allows you to interact without revealing your identity. This mode goes beyond changing your user handle, avatar or text it also issues a special non reusable identity token that cannot be traced back to your normal login in the system just in case the people you are interacting with online are technical and able to do digital forensics.
-You can have a veiled chat as a generic anonymous user or use karma or credits to upgrade that temporary hidden identity to a special shared public identity (Public Personas) like Santa Claus or the Devil for fun. These chats are meant to help overcome social anxiety in participants in the social network and faciliate the flow of ideas when otherwise you maybe too shy or afraid to speak out.
+You can have a veiled chat as a generic anonymous user or use karma or credits to upgrade that temporary hidden identity to a special shared public identity (Public Personas) like Santa Claus or the Devil for fun or use your own private personas. These chats are meant to help overcome social anxiety in participants in the social network and faciliate the flow of ideas when otherwise you maybe too shy or afraid to speak out.
 
-B. Personas
+### B. Personas
 
-Personas in the context of this proposed social network is like a costume you put on and assume identity of for some indefinite period of time while interacting with others in the social network. They can be your own private persona and you can opt to have multiple personas if you got enough karma or credit or a public persona like Santa that you can temporarily rent for special occasions or for no paricular reason at all. We can have virtual Star Trek or furry conventions in the system in which paricular  fandoms and communities can "wear" their personas and have virtual social interactions as their persona with full roleplay senarios think of doing a Star Trek crew roleplay in a virtual Enterprise or just plain interactions in a virtual fanbase specific convention. You can also be your persona essentially forever in this network if you own that specific persona. 
+Personas in the context of this proposed social network is like a costume you put on and assume identity of for some indefinite period of time while interacting with others in the social network. They can be your own private persona and you can opt to have multiple personas if you got enough karma or credit or a public persona like Santa that you can temporarily rent for special occasions or for no paricular reason at all. We can have virtual Star Trek or furry conventions in the system in which paricular  fandoms and communities can "wear" their personas and have virtual social interactions as their persona with full roleplay senarios  or just plain interactions in a virtual fanbase specific convention. You can also be your persona essentially forever in this network if you own that specific persona.
 
-C. Persona / Avatar Marketplace
+### C. Team based Role Play Chat
 
-There can be a marketplace where you can design your (OC) or  Original Character (see https://en.wiktionary.org/wiki/original_character) and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma. Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature. 
+We can have fun scenario role play games in the system leveraging the public shared persona system. Imagine doing a superhero team role play with your friends vs a supervillian team composed of your other friends.
 
-D. Avatar Design / Import
 
-The end user can import images for their avatar which is initially 2D but can eventually be 3D. A designer tool for avatars is out of scope but possible in the future
+### D. Persona / Avatar Marketplace
 
-E. Avatar chat
+There can be a marketplace where you can design your (OC) or  [Original Character](https://en.wiktionary.org/wiki/original_character) and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma. Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature.
+
+
+### E. Avatar Design / Import
+
+The end user can import images for their avatar which is initially 2D but can eventually be 3D. A designer tool for avatars is out of scope but possible in the future.
+
+### F. Avatar Chat
 
 We can have 3D gesture based chat but this is reserved for a future version probably aimed at a desktop client.
 
-F. Karma and Credits
+### G. Oauth support and authentication
 
-The system will have two currencies to facilitate transactions. Karma is earned by certain actions that the system deems prosocial and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps)  The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of not collecting too much information from the users of online platforms. We will be totally transparent as to what data we collect and why and will have options for deleting financial transactions after some time if no claims of fraud or wrong doing with regards to aforementioned transactions are made.
+We will support [Oauth](https://oauth.net/) and optional two factor authentication (mail loop or SMS loop). Other secure and mature authentication methods may also be considered.
 
-G. Bounties and Tasks
+
+### H. Karma and Credits
+
+The system will have two currencies to facilitate transactions. Karma is earned by certain actions that the system deems prosocial and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps)  The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of [not collecting too much information from the users of online platforms](https://gdpr.eu/what-is-gdpr/). We will be totally transparent as to what data we collect and why and will have options for deleting financial transactions after some time if no claims of fraud or wrong doing with regards to aforementioned transactions are made.
+
+### I. Bounties and Tasks
 
 Users can set bounties for any task in the system with credits and get volunteers to work on these in exchange for credits.
-    
-H. Formal and Informal Debates
 
-1. Formal Debates can be Oxford style debates among individuals or teams. Teams can adopt a Team Persona for the duration of the said debate and appear in the system as a single character voicing all their collective arguments. The Oxford style debates are a common format in professional debate circles and explanation of the said format can be found in this link (see https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/oxford)
+### J. Formal and Informal Debates
+
+1. Formal Debates can be Oxford style debates among individuals or teams. Teams can adopt a Team Persona for the duration of the said debate and appear in the system as a single character voicing all their collective arguments. The Oxford style debates are a common format in professional debate circles and explanation of the said format can be found in this [link](https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/oxford)
 There will be formal winners and losers in the debates decided by votes as outlined in the link.
 
 2. Informal Debates can be practice sessions and a vote after the debate is optional
 
-I. Organizations and Guilds
+### K. Brainstorming Sessions
+
+We will have veiled brainstorming sessions and the participants in said session can be randomly selected to hopefully reflect diverse viewpoints. The participants can rate each other after the sessions and become friends and drop the veil if they wish.
+
+### L. Friend list
+
+We are a social network and of course we can help you keep track of your friends but to become friends you got to drop the veil and get to know each other.
+
+### M. Senpai System for Recruitment
+
+We want a social network with outstanding members and the best means to do that is to offer incentives for current members in good standing in the network to sponsor or endorse others as worthy of joining. The benefit of this is that even if the network is mostly anonymous there are actual members in that know your real identity and are willing to vouch for you. The senpai or sponsors can earn karma for recruits that do good in the system and may get a karma demerit if they endorse someone who is not up to any good in the system.
+
+### N. Organizations and Guilds
 
 We will support organizations/guilds as a native entity in the system with membership and rules defined by the organization admin. This can be like discord communities and / or  schools or corporate or governmental entities or non profit organizations.
 We can  be the platform of choice for organizing and executing actions after consensus in a given group is reached or simply a means of having fun and socializing. We will not control the aims of these groups as they are free to do as they please as long as no laws are broken and everyone's interests are protected.
 
-J. Voting and Consensus Platform
+### O. Voting and Consensus Platform
 
-We will support various voting systems and one of them is examined in detail in this document (see https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md). Group consensus is essential in many organizations and beng consulted upon helps build group cohesion prior to any major activity that may affect the members of the group. This feature can be a corporate decision makimg aid as well as a means of ensuring the group members have say in pertinent issues. 
+We will support various voting systems and one of them is examined in detail in this [document](https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md). Group consensus is essential in many organizations and beng consulted upon helps build group cohesion prior to any major activity that may affect the members of the group. This feature can be a corporate decision makimg aid as well as a means of ensuring the group members have say in pertinent issues.
 
-K. Question and Answer System
+### P. Question and Answer System
 
 We can have a system where user who is frustrated at not having the right answer found can ask while using the veil and get answers from other users in the system. The incentive for those that answer these questions can come in many forms.
 
 1. Skill rating increase in a particular skill rating category
-2. Karma
+2. Karma for doing good
 3. Credits if bounty for a particularly difficult and urgent question is set.
 
 We can define other rewards in the future and those are merely indicative of what is possible. This can eventually build up to a collective knowledge base that shall be searchable and ranked by up votes and down votes in a given category. Corporations can use this tool to build custom knowledge bases and these can be made private and hosted in their own cloud or server platform for a fee if they fear leakage of proprietary corporate information.
 
-L. Skills Rating System
+### Q. Skills Rating System
 
-We will have a curated list of skills that is translated to multiple languages but is internally represented as a single token per skill and details of it can be seen here (see [https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md#skill-rating]. These skills can be used in job search, freelancing and organizational decision making as outlined in the abovementioned document. Skill points can be earned via exams, answering questions, participating in debates and other activities.
+We will have a curated list of skills that is translated to multiple languages but is internally represented as a single token per skill and details of it can be seen [here](https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md#skill-rating). These skills can be used in job search, freelancing and organizational decision making as outlined in the abovementioned document. Skill points can be earned via exams, answering questions, participating in debates and other activities.
 
-M. Com snippets and async chat feature
+### R. Com snippets and async chat feature
 
-We aim to provide quality audio and video chat over slow networks with or async chat feature.
+We aim to provide quality audio and video chat over slow networks with our async chat feature.
 
-N. Public Com snippets.
+### S. Public Com Snippets
 
-The user can create audio and/or video and set a com snippet public which can be accessible via rss feeds as a video or audio  cast. We can facilitate webcast, podcast and other content creation modalities like webcasts where you appear as not yourself but as your OC or persona. 
+The user can create audio and/or video and set a com snippet public which can be accessible via rss feeds as a video or audiocast. We can facilitate webcast, podcast and other content creation modalities like webcasts where you appear as not yourself but as your OC or persona.
 
-O. Oauth support and authentication
+### T. Peer to Peer Credit Transfer
 
-We will support Oauth and optional two factor authentication (mail loop or sms loop)
-
-P. Peer to Peer credit transfer 
-
-This is our entry point to becoming a superapp. Maybe our app once widely adopted can be used for remittance by foreign and guest workers in the first world to the third world to bypass fees.
+This is our entry point to becoming a superapp. Maybe our app once widely adopted can be used for remittance by foreign and guest workers in the first world to the third world to bypass [remittance fees](https://remittanceprices.worldbank.org/) and forex fees.
 
 
 ## VII. Metrics
 
-We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many means but primarily with objective metrics user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without killing or severely damaging their very profitable online ad sales business. We can rely less on ads and make ads optional to users who want to support us by watching an ad of their choice. (So another metric is ads watched per month) and user subscriptions for an ad free experience (Another metric is total monthly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running.
+We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many means but primarily with objective metrics like user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without killing or severely damaging their very profitable online ad sales business. We can rely less on ads and make ads optional to users who want to support us by watching an ad of their choice. (So another metric is ads watched per month) and user subscriptions for an ad free experience (Another metric is total monthly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running and we will. (soon)
