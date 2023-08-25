@@ -10,7 +10,7 @@ We all know that there is a need for a social network that is less toxic and is 
 
 ## II. Vision
 
-The world needs a communication platform that promotes the good interactions and suppress the bad interactions. We aim to be that better turstworthy platform where people meet, play, do work and essentially be their best selves liberated from the constraints of time and place. It is a place we can all be ourselves and help each other while rewarding each other for being helpful and nice.
+The world needs a communication platform that promotes the good interactions and suppress the bad interactions. We aim to be that better turstworthy platform where people meet, play, do work and essentially be their best selves liberated from the constraints of time and place. It is a place we can all be ourselves and help each other while rewarding each other for being helpful and nice rather than being passive eyeballs being sold we can be active participants in a virtual social space in which we can define ourselves as useful participants in a global setting.
 
 
 ## III. Target Markets
