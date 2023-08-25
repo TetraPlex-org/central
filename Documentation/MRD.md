@@ -34,6 +34,8 @@ We will be based in the EU rather than in China or the US where regulations on d
 
 * Eva works in the US as a nurse and miss her very young children in the Philippines. She uses our pltform to chat with them using fun kid friendly personas sometimes and use or credit system to send cash home.
 
+* Frank is an entrepreneur and wants someone to test his new web platform. He pays credits to the system, the system takes transaction fees and a freelance tester does the task and files a report for a bounty claim, the tester gets paid in credits after Frank sees the report.
+
 (we need additional personas... who are our target users)
 
 ## V. Competitor Analysis
