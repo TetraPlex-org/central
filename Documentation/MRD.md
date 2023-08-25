@@ -34,7 +34,7 @@ The target market of our proposed social media platform is essentially anyone on
 
 ## V. Competitor Analysis
 
-Identify and check the strengths and weaknesses of your competitors. It involves researching their marketing strategies to gain insight into their business practices. (Yes we need this who are we really competing against...)
+There are claims online that the age of social media is over (see https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/) but that is a consequence of the negative dynamics of their free to use ad supported networks where you are sold as an eyeball. We will take over from the ashes of this broken and toxic social media landscape and be the oasis (here is a  fun fan reference https://readyplayerone.fandom.com/wiki/OASIS)  in more ways than one. We think social media isnt dead we still need to interact and transact online. It is merely waiting to be reborn and remade, reincarnated in better form.
 
 
 ## VI. High-level Capabilities
