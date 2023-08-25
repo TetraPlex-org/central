@@ -28,7 +28,7 @@ The target market of our proposed social media platform is essentially anyone on
 
 * Dave is a role player and a serious fan of Star Trek. He wants to have fun and chat with random people as Spock.
 
-* Eva works in the US as a nurse and miss her very young children in the Philippines. She uses our pltform to chat with them using fun kid friendly personas sometimes and use our credit system to send cash home.
+* Eva works in the US as a nurse and miss her very young children in the Philippines. She uses our platform to chat with them using fun kid friendly personas sometimes and use our credit system to send cash home with less fees.
 
 * Frank is an entrepreneur and wants someone to test his new web platform. He pays credits to the system, the system takes transaction fees and a freelance tester does the task and files a report for a bounty claim, the tester gets paid in credits after Frank sees the report.
 
