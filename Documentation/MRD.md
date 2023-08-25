@@ -48,15 +48,11 @@ You can have a veiled chat as a generic anonymous user or use karma or credits t
 
 B. Personas
 
-Personas in the context of this proposed social network is like a costume you put on and assume identity of for some indefinite period of time while interacting with others in the social network. They can be your own private persona and you can opt to have multiple personas if you got enough karma or credit or a public persona like Santa that you can temporarily rent for special occasions or for no paricular reason at all.
-
-We can have virtual Star Trek or furry conventions in the system in which paricular  fandoms and communities can "wear" their personas and have virtual social interactions as their persona with full roleplay senarios think of doing a Star Trek crew roleplay in a virtual Enterprise or just plain interactions in a virtual fanbase specific convention. You can also be your persona essentially forever in this network if you own that specific persona. 
+Personas in the context of this proposed social network is like a costume you put on and assume identity of for some indefinite period of time while interacting with others in the social network. They can be your own private persona and you can opt to have multiple personas if you got enough karma or credit or a public persona like Santa that you can temporarily rent for special occasions or for no paricular reason at all. We can have virtual Star Trek or furry conventions in the system in which paricular  fandoms and communities can "wear" their personas and have virtual social interactions as their persona with full roleplay senarios think of doing a Star Trek crew roleplay in a virtual Enterprise or just plain interactions in a virtual fanbase specific convention. You can also be your persona essentially forever in this network if you own that specific persona. 
 
 C. Persona / Avatar Marketplace
 
-There can be a marketplace where you can design your (OC) or  Original Character (see https://en.wiktionary.org/wiki/original_character) and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma.
-
-Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature. 
+There can be a marketplace where you can design your (OC) or  Original Character (see https://en.wiktionary.org/wiki/original_character) and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma. Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature. 
 
 D. Avatar Design / Import
 
@@ -68,9 +64,7 @@ We can have 3D gesture based chat but this is reserved for a future version prob
 
 F. Karma and Credits
 
-The system will have two currencies to facilitate tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps) 
-
-The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of not collecting too much information from the users of online platforms. We will be totally transparent as to what data we collect and why and will have options for deleting financial transactions after some time if no claims of fraud or wrong doing with regards to aforementioned transactions are made.
+The system will have two currencies to facilitate transactions. Karma is earned by certain actions that the system deems prosocial and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps)  The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of not collecting too much information from the users of online platforms. We will be totally transparent as to what data we collect and why and will have options for deleting financial transactions after some time if no claims of fraud or wrong doing with regards to aforementioned transactions are made.
 
 G. Bounties and Tasks
 
@@ -84,6 +78,7 @@ There will be formal winners and losers in the debates decided by votes as outli
 2. Informal Debates can be practice sessions and a vote after the debate is optional
 
 I. Organizations and Guilds
+
 We will support organizations/guilds as a native entity in the system with membership and rules defined by the organization admin. This can be like discord communities and / or  schools or corporate or governmental entities or non profit organizations.
 We can  be the platform of choice for organizing and executing actions after consensus in a given group is reached or simply a means of having fun and socializing. We will not control the aims of these groups as they are free to do as they please as long as no laws are broken and everyone's interests are protected.
 
@@ -93,14 +88,13 @@ We will support various voting systems and one of them is examined in detail in 
 
 K. Question and Answer System
 
-We can have a system where user who is frustrated at not having the right answer found can ask while using the veil and get answers from other users ion the system. The incentive for those that answer these questions can come in many forms.
+We can have a system where user who is frustrated at not having the right answer found can ask while using the veil and get answers from other users in the system. The incentive for those that answer these questions can come in many forms.
 
 1. Skill rating increase in a particular skill rating category
 2. Karma
 3. Credits if bounty for a particularly difficult and urgent question is set.
 
-We can define other rewards in the future and those are merely indicative of what is possible.
-This can eventually build up to a collective knowledge base that shall be searchable and ranked by up votes and down votes in a given category. Corporations can use this tool to build custom knowledge bases and these can be made private and hosted in their own cloud or server platform for a fee if they fear leakage of proprietary corporate information.
+We can define other rewards in the future and those are merely indicative of what is possible. This can eventually build up to a collective knowledge base that shall be searchable and ranked by up votes and down votes in a given category. Corporations can use this tool to build custom knowledge bases and these can be made private and hosted in their own cloud or server platform for a fee if they fear leakage of proprietary corporate information.
 
 L. Skills Rating System
 
@@ -108,7 +102,7 @@ We will have a curated list of skills that is translated to multiple languages b
 
 M. Com snippets and async chat feature
 
-We aim to provide quality audio and video chat over slow networks with or aync chat feature.
+We aim to provide quality audio and video chat over slow networks with or async chat feature.
 
 
 ## VII. Metrics
