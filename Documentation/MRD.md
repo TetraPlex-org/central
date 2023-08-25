@@ -106,7 +106,7 @@ We aim to provide quality audio and video chat over slow networks with or async 
 
 N. Public Com snippets.
 
-The user can create audio and/or video and set a com snippet public which can be accessible via rss feeds as a video or audio  cast. We can facilitate webcast, podcast and other content creation also webcasts where you appear as not yourself but as your OC or persona. 
+The user can create audio and/or video and set a com snippet public which can be accessible via rss feeds as a video or audio  cast. We can facilitate webcast, podcast and other content creation modalities like webcasts where you appear as not yourself but as your OC or persona. 
 
 ## VII. Metrics
 
