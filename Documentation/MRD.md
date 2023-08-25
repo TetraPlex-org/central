@@ -116,7 +116,6 @@ P. Peer to Peer credit transfer
 
 This is our entry point to becoming a superapp. Maybe our app once widely adopted can be used for remittance by foreign and guest workers in the first world to the third world to bypass fees.
 
-You can send credits on our
 
 ## VII. Metrics
 
