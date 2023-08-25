@@ -23,8 +23,6 @@ Being a superapp or a financial intermediary on top of being a communications an
 We will be based in the EU rather than in China or the US where regulations on data privacy are more stringent and aim to be a trustworthy social network and superapp (unlike our competitors).
 
 
-
-
 ## IV. Personas
 
 * Alice wants to have her questions answered but is too shy to ask the questions fearing that her online reputation maybe tarnished
@@ -48,12 +46,11 @@ Identify and check the strengths and weaknesses of your competitors. It involves
 
 These main features and functionalities should meet the target market's needs. Describe high-level capabilities without going into specific technical details.
 
-(We will define what our product will do here... what... ) (how comes later)
+(We will define what our product will do here... what... why...) (how comes later)
 
 A. Veiled Chats
 
-Veiled Chats is a special communications mode that allows you to interact without revealing your identity. This mode goes beyond changing your user handle, avatar or text it also issues a special non reusuable identity token that cannot be traced back to your normal login in the system just in case the people your are interacting with online are technical and able to do digital forensics.
-
+Veiled Chats is a special communications mode that allows you to interact without revealing your identity. This mode goes beyond changing your user handle, avatar or text it also issues a special non reusable identity token that cannot be traced back to your normal login in the system just in case the people you are interacting with online are technical and able to do digital forensics.
 You can have a veiled chat as a generic anonymous user or use karma or credits to upgrade that temporary hidden identity to a special shared public identity (Public Personas) like Santa Claus or the Devil for fun. These chats are meant to help overcome social anxiety in participants in the social network and faciliate the flow of ideas when otherwise you maybe too shy or afraid to speak out.
 
 B. Personas
