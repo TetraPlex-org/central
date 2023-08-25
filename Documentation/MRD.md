@@ -78,7 +78,7 @@ G. Question and Answer
 
 H. Com snippets and async chat features
 
-H. Avatar chat
+I. Avatar chat
 
 (what else have we chat about just write it down I will edit)
 
