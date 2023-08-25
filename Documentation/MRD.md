@@ -77,12 +77,11 @@ There will be formal winners and losers in the debates decided by votes as outli
 
 F. Organizations and Guilds
 We will support organizations/guilds as a native entity in the system with membership and rules defined by the organization admin. This can be like discord communities and / or  schools or corporate or governmental entities or non profit organizations.
-We can  be the platform of choice for organizing and executing actions after consensus in a given group is reached or simply a means of having fun and socializing. We will not control the aims of these groups as they are free to do as they please as long as no laws are broken and everyone's interest are protected.
+We can  be the platform of choice for organizing and executing actions after consensus in a given group is reached or simply a means of having fun and socializing. We will not control the aims of these groups as they are free to do as they please as long as no laws are broken and everyone's interests are protected.
 
 G. Voting and Consensus Platform
 
-We will support various voting systems and one of them is examined in detail in this document (see https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md). Group consensus is essentail in many organizations and beng consulted upon helps build group cohesion prior to any major activity that may affect the members of the group. This feature can be a corporate decision makimg aid as well as a means of ensuring the group has a say in pertinent issues. A
-
+We will support various voting systems and one of them is examined in detail in this document (see https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md). Group consensus is essential in many organizations and beng consulted upon helps build group cohesion prior to any major activity that may affect the members of the group. This feature can be a corporate decision makimg aid as well as a means of ensuring the group members have say in pertinent issues. 
 
 H. Question and Answer
 
