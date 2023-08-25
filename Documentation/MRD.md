@@ -41,9 +41,7 @@ Identify and check the strengths and weaknesses of your competitors. It involves
 
 ## VI. High-level Capabilities
 
-These main features and functionalities should meet the target market's needs. Describe high-level capabilities without going into specific technical details.
-
-(We will define what our product will do here... what... why...) (how comes later)
+These main features and functionalities should meet the target market's needs. Describe high-level capabilities without going into specific technical details. (We will define what our product will do here... what... why...) (how comes later)
 
 A. Veiled Chats
 
