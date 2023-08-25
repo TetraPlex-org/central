@@ -72,13 +72,20 @@ F. Voting and Consensus Platform
 
 G. Question and Answer
 
-H. Com snippets and async chat features
+H. Skills Rating System
 
-I. Avatar chat
+I. Com snippets and async chat features
+
+J. Avatar Design / Import
+
+K. Avatar chat
+
+L. Avatar Marketplace
+
+M. 
 
 (what else have we chat about just write it down I will edit)
 
 ## VII. Metrics
 
-Measure the product's performance against the defined objectives. 
-(how do we measure if we are less toxic ?)
+We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many mean, primarily with objective metrics user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they cant really pivot awy from that without damaging their very profitable online ad sales business. We can rely less on ads an make ads optional to users who want to support us by watching ann add of their choice. (So another metric is ads watched per month) and  end user subscriptions for an ad free experience (Another metric is total montly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running.
