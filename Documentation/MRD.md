@@ -72,9 +72,11 @@ D. Bounties and Tasks
     
 E. Formal and Informal Debates
 
-F. Question and Answer
+F. Voting and Consensus Platform
 
-G. Com snippets and async chat features
+G. Question and Answer
+
+H. Com snippets and async chat features
 
 H. Avatar chat
 
