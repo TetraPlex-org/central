@@ -35,7 +35,7 @@ We will be based in the EU rather than in China or the US where regulations on d
 
 * Dave is a role player and a serious fan of Star Trek. He wants to have fun and chat with random people as Spock.
 
-* Eva works in the US as a nurse and miss hert children in the Philippines. She uses our pltform to chat with them using fun kid friendly personas sometimes and use or credit system to send cash home.
+* Eva works in the US as a nurse and miss her very young children in the Philippines. She uses our pltform to chat with them using fun kid friendly personas sometimes and use or credit system to send cash home.
 
 (we need additional personas... who are our target users)
 
