@@ -136,6 +136,9 @@ The user can create audio and/or video and set a com snippet public which can be
 
 This is our entry point to becoming a superapp. Maybe our app once widely adopted can be used for remittance by foreign and guest workers in the first world to the third world to bypass [remittance fees](https://remittanceprices.worldbank.org/) and forex fees.
 
+### V. VR/AR support 
+
+We may suppport VR/AR devices in the future but for now we will focus on market reach via apps that can be deployed even on low spec smartphones and desktops.
 
 ## VII. Metrics
 
