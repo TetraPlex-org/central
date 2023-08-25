@@ -108,6 +108,16 @@ N. Public Com snippets.
 
 The user can create audio and/or video and set a com snippet public which can be accessible via rss feeds as a video or audio  cast. We can facilitate webcast, podcast and other content creation modalities like webcasts where you appear as not yourself but as your OC or persona. 
 
+O. Oauth support and authentication
+
+We will support Oauth and optional two factor authentication (mail loop or sms loop)
+
+P. Peer to Peer credit transfer 
+
+This is our entry point to becoming a superapp. Maybe our app once widely adopted can be used for remittance by foreign and guest workers in the first world to the third world to bypass fees.
+
+You can send credits on our
+
 ## VII. Metrics
 
 We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many means but primarily with objective metrics user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without killing or severely damaging their very profitable online ad sales business. We can rely less on ads and make ads optional to users who want to support us by watching an ad of their choice. (So another metric is ads watched per month) and user subscriptions for an ad free experience (Another metric is total monthly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running.
