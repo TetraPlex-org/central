@@ -70,6 +70,11 @@ Users can set bounties for any task in the system with credits and get volunteer
     
 E. Formal and Informal Debates
 
+1. Formal Debates can be Oxford style debates among individuals or teams. Teams can adopt a Team Persona for the duration of the said debate and appear in the system as a single character voicing all their collective arguments. The Oxford style debates are a common format in professional debate circles and explanation of the said format can be found in this link (see https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/oxford)
+There will be formal winners and losers in the debates decided by votes as outlined in the link.
+
+2. Informal Debates can be practice sessions and a vote after the debate is optional
+
 F. Voting and Consensus Platform
 
 G. Question and Answer
@@ -98,4 +103,4 @@ M.
 
 ## VII. Metrics
 
-We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many means but primarily with objective metrics user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without killing or serverely damaging their very profitable online ad sales business. We can rely less on ads an make ads optional to users who want to support us by watching an ad of their choice. (So another metric is ads watched per month) and user subscriptions for an ad free experience (Another metric is total monthly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running.
+We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many means but primarily with objective metrics user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without killing or severely damaging their very profitable online ad sales business. We can rely less on ads and make ads optional to users who want to support us by watching an ad of their choice. (So another metric is ads watched per month) and user subscriptions for an ad free experience (Another metric is total monthly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running.
