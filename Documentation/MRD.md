@@ -32,8 +32,6 @@ The target market of our proposed social media platform is essentially anyone on
 
 * Frank is an entrepreneur and wants someone to test his new web platform. He pays credits to the system, the system takes transaction fees and a freelance tester does the task and files a report for a bounty claim, the tester gets paid in credits after Frank sees the report.
 
-(we need additional personas... who are our target users)
-
 ## V. Competitor Analysis
 
 Identify and check the strengths and weaknesses of your competitors. It involves researching their marketing strategies to gain insight into their business practices. (Yes we need this who are we really competing against...)
