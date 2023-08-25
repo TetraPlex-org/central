@@ -106,7 +106,7 @@ This can eventually build up to a collective knowledge base that shall be search
 
 L. Skills Rating System
 
-We will have a curated list of skills that is translated to multiple languages but is internally represented as a single token per skill and details of it can be seen here (see [https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md#skill-rating]. These skills can be used in job search, freelancing and organizational decision making as outlined in the abovementioned document. Skill points can ber earned via exams, answering questions, participating in debates and other activities.
+We will have a curated list of skills that is translated to multiple languages but is internally represented as a single token per skill and details of it can be seen here (see [https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md#skill-rating]. These skills can be used in job search, freelancing and organizational decision making as outlined in the abovementioned document. Skill points can be earned via exams, answering questions, participating in debates and other activities.
 
 M. Com snippets and async chat feature
 
