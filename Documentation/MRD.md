@@ -56,8 +56,6 @@ Personas in the context of this proposed social network is like a costume you pu
 
 We can have virtual Star Trek or furry conventions in the system in which paricular  fandoms and communities can "wear" their personas and have virtual social interactions as their persona with full roleplay senarios think of doing a Star Trek crew roleplay in a virtual Enterprise or just plain interactions in a virtual fanbase specific convention. You can also be your persona essentially forever in this network if you own that specific persona. 
 
-We can have a persona marketplace where artists can make 2D or 3D graphics that could go along well with a particular OC or original character as well as a fully formed character backstory (if a serious roleplayer desireth such).
-
 C. Persona / Avatar Marketplace
 
 There can be a marketplace where you can design your (OC) or  Original Character and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma.
