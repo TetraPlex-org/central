@@ -114,7 +114,6 @@ M. Com snippets and async chat feature
 
 We aim to provide quality audio and video chat over slow networks with or aync chat feature.
 
-N. (what else have we chat about just write it down I will edit)
 
 ## VII. Metrics
 
