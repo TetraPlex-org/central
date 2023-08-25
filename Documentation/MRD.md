@@ -34,7 +34,7 @@ The target market of our proposed social media platform is essentially anyone on
 
 ## V. Competitor Analysis
 
-There are claims online that the [age of social media is over](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/) but that is a consequence of the negative dynamics of their free to use ad supported networks where you are sold as an eyeball. We will take over from the ashes of this broken and toxic social media landscape and be the [oasis](https://readyplayerone.fandom.com/wiki/OASIS) in more ways than one. We think social media isn't dead since we still need to interact and transact online. It is merely waiting to be reborn and remade, reincarnated in a better form.
+There are claims online that the [age of social media is over](https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/) but that is a consequence of the negative dynamics of their free to use ad supported networks where you are sold as an eyeball. We will take over from the ashes of this broken and toxic social media landscape and be the [oasis](https://readyplayerone.fandom.com/wiki/OASIS) in more ways than one. We think social media isn't dead since we still need to interact and transact online. It is merely waiting to be reborn, remade and reincarnated in a better form.
 
 
 ## VI. High-level Capabilities
