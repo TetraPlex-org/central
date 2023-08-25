@@ -65,6 +65,8 @@ The system will have two currencies to facilitate tranactions. Karma is earned b
 The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of not collecting too much information from the users of online platforms. We will be totally transparent as to what data we collect and why and will have options for deleting financial transactions after some time if no claims of fraud or wrong doing with regards to aforementioned transactions are made.
 
 D. Bounties and Tasks
+
+Users can set bounties for any task in the system with credits and get volunteers to work on these in exchange for credits.
     
 E. Formal and Informal Debates
 
@@ -78,9 +80,17 @@ I. Com snippets and async chat features
 
 J. Avatar Design / Import
 
+The end user can import images for their avatar which is initially 2D but can eventually be 3D. A designer tool for avatars is out of scope but possible in the future
+
 K. Avatar chat
 
-L. Avatar Marketplace
+We can have 3D gesture based chat but this is reserved for a future version probably aimed at a desktop client,
+
+L. Persona / Avatar Marketplace
+
+There can be a marketplace where you can design your (OC) or  Original Character and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma.
+
+Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical creature. 
 
 M. 
 
@@ -88,4 +98,4 @@ M.
 
 ## VII. Metrics
 
-We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many mean, primarily with objective metrics user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without damaging their very profitable online ad sales business. We can rely less on ads an make ads optional to users who want to support us by watching ann add of their choice. (So another metric is ads watched per month) and  end user subscriptions for an ad free experience (Another metric is total montly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running.
+We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many means but primarily with objective metrics user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without killing or serverely damaging their very profitable online ad sales business. We can rely less on ads an make ads optional to users who want to support us by watching an ad of their choice. (So another metric is ads watched per month) and user subscriptions for an ad free experience (Another metric is total monthly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running.
