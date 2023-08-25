@@ -75,29 +75,36 @@ There will be formal winners and losers in the debates decided by votes as outli
 
 2. Informal Debates can be practice sessions and a vote after the debate is optional
 
-F. Voting and Consensus Platform
+F. Organizations and Guilds
+We will support organizations/guilds as a native entity in the system with membership and rules defined by the organization admin. This can be like discord communities and / or  schools or corporate or governmental entities or non profit organizations.
+We can  be the platform of choice for organizing and executing actions after consensus in a given group is reached or simply a means of having fun and socializing. We will not control the aims of these groups as they are free to do as they please as long as no laws are broken and everyone's interest are protected.
 
-G. Question and Answer
+G. Voting and Consensus Platform
 
-H. Skills Rating System
+We will support various voting systems and one of them is examined in detail in this document (see https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md). Group consensus is essentail in many organizations and beng consulted upon helps build group cohesion prior to any major activity that may affect the members of the group. This feature can be a corporate decision makimg aid as well as a means of ensuring the group has a say in pertinent issues. A
 
-I. Com snippets and async chat features
 
-J. Avatar Design / Import
+H. Question and Answer
+
+I. Skills Rating System
+
+J. Com snippets and async chat features
+
+K. Avatar Design / Import
 
 The end user can import images for their avatar which is initially 2D but can eventually be 3D. A designer tool for avatars is out of scope but possible in the future
 
-K. Avatar chat
+L. Avatar chat
 
 We can have 3D gesture based chat but this is reserved for a future version probably aimed at a desktop client,
 
-L. Persona / Avatar Marketplace
+M. Persona / Avatar Marketplace
 
 There can be a marketplace where you can design your (OC) or  Original Character and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma.
 
 Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature. 
 
-M. 
+N. 
 
 (what else have we chat about just write it down I will edit)
 
