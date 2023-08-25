@@ -90,7 +90,7 @@ L. Persona / Avatar Marketplace
 
 There can be a marketplace where you can design your (OC) or  Original Character and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma.
 
-Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical creature. 
+Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature. 
 
 M. 
 
