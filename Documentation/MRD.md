@@ -58,52 +58,60 @@ We can have virtual Star Trek or furry conventions in the system in which paricu
 
 We can have a persona marketplace where artists can make 2D or 3D graphics that could go along well with a particular OC or original character as well as a fully formed character backstory (if a serious roleplayer desireth such).
 
-C. Karma and Credits
+C. Persona / Avatar Marketplace
+
+There can be a marketplace where you can design your (OC) or  Original Character and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma.
+
+Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature. 
+
+D. Avatar Design / Import
+
+The end user can import images for their avatar which is initially 2D but can eventually be 3D. A designer tool for avatars is out of scope but possible in the future
+
+E. Avatar chat
+
+We can have 3D gesture based chat but this is reserved for a future version probably aimed at a desktop client.
+
+F. Karma and Credits
 
 The system will have two currencies to facilitate tranactions. Karma is earned by certain actions that the system deems pro social and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps) 
 
 The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of not collecting too much information from the users of online platforms. We will be totally transparent as to what data we collect and why and will have options for deleting financial transactions after some time if no claims of fraud or wrong doing with regards to aforementioned transactions are made.
 
-D. Bounties and Tasks
+G. Bounties and Tasks
 
 Users can set bounties for any task in the system with credits and get volunteers to work on these in exchange for credits.
     
-E. Formal and Informal Debates
+H. Formal and Informal Debates
 
 1. Formal Debates can be Oxford style debates among individuals or teams. Teams can adopt a Team Persona for the duration of the said debate and appear in the system as a single character voicing all their collective arguments. The Oxford style debates are a common format in professional debate circles and explanation of the said format can be found in this link (see https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/oxford)
 There will be formal winners and losers in the debates decided by votes as outlined in the link.
 
 2. Informal Debates can be practice sessions and a vote after the debate is optional
 
-F. Organizations and Guilds
+I. Organizations and Guilds
 We will support organizations/guilds as a native entity in the system with membership and rules defined by the organization admin. This can be like discord communities and / or  schools or corporate or governmental entities or non profit organizations.
 We can  be the platform of choice for organizing and executing actions after consensus in a given group is reached or simply a means of having fun and socializing. We will not control the aims of these groups as they are free to do as they please as long as no laws are broken and everyone's interests are protected.
 
-G. Voting and Consensus Platform
+J. Voting and Consensus Platform
 
 We will support various voting systems and one of them is examined in detail in this document (see https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md). Group consensus is essential in many organizations and beng consulted upon helps build group cohesion prior to any major activity that may affect the members of the group. This feature can be a corporate decision makimg aid as well as a means of ensuring the group members have say in pertinent issues. 
 
-H. Question and Answer
+K. Question and Answer System
 
-I. Skills Rating System
+We can have a system where user who is frustrated at not having the right answer found can ask while using the veil and get answers from other users ion the system. The incentive for those that answer these questions can come in many forms.
 
-J. Com snippets and async chat features
+1. Skill rating increase in a particular skill rating category
+2. Karma
+3. Credits if bounty for a particularly difficult and urgent question is set.
 
-K. Avatar Design / Import
+We can define other rewards in the future and those are merely indicative of what is possible.
+This can eventually build up to a collective knowledge base that shall be searchable and ranked by up votes and down votes in a given category. Corporations can use this tool to build custom knowledge bases and these can be made private and hosted in their own cloud or server platform for a fee if they fear leakage of proprietary corporate information.
 
-The end user can import images for their avatar which is initially 2D but can eventually be 3D. A designer tool for avatars is out of scope but possible in the future
+L. Skills Rating System
 
-L. Avatar chat
+M. Com snippets and async chat features
 
-We can have 3D gesture based chat but this is reserved for a future version probably aimed at a desktop client,
-
-M. Persona / Avatar Marketplace
-
-There can be a marketplace where you can design your (OC) or  Original Character and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma.
-
-Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature. 
-
-N. 
 
 (what else have we chat about just write it down I will edit)
 
