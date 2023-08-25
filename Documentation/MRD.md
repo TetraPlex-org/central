@@ -108,10 +108,13 @@ This can eventually build up to a collective knowledge base that shall be search
 
 L. Skills Rating System
 
-M. Com snippets and async chat features
+We will have a curated list of skills that is translated to multiple languages but is internally represented as a single token per skill and details of it can be seen here (see https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md) These skills can be used in job search, freelancing and organizational decision making as outlined in the abvementioned document.
 
+M. Com snippets and async chat feature
 
-(what else have we chat about just write it down I will edit)
+We aim to provide quality audio and video chat over slow networks with or aync chat feature.
+
+N. (what else have we chat about just write it down I will edit)
 
 ## VII. Metrics
 
