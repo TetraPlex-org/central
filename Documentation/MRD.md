@@ -20,7 +20,7 @@ The target market of our proposed social media platform is essentially anyone on
 
 Being a superapp or a financial intermediary on top of being a communications and workflow platform offers a lot more opportunities for monetization and could mean that ads revenue on the platform may in the long run be dwarfed by other revenue streams. If we can tap the global remittance market to the third world from the first world that is a market worth global remittance market size was valued at $701.93 billion in 2020, and is projected to reach $1,227.22 billion by 2030, registering a CAGR of 5.7% from 2021 to 2030. (https://www.alliedmarketresearch.com/remittance-market).
 
-We will be based in the EU rather than in China or the US where regulations on data privacy are more stringent and aim to be a trustwortgy social network and superapp (unlike our competitors)
+We will be based in the EU rather than in China or the US where regulations on data privacy are more stringent and aim to be a trustwortgy social network and superapp (unlike our competitors).
 
 
 
