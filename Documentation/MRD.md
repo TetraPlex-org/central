@@ -54,67 +54,73 @@ Personas in the context of this proposed social network is like a costume you pu
 
 We can have a persona type for work / serious discussions as well as play / socializing. Think of the times you went to a place and was dressed inappropriately that is something to avoid online as well since people  online or offline may judge you by appearance so you got to put best persona forward that is event appropriate. 
 
-### D. Team based Role Play Chat
+### D. Persona Usage Scope
+Persona Usage can also be scoped as public, shared or private. 
+1. Public personas are public and anyone can use them freely or rent them for karma or credits.
+2. Shared personas are shared between members of a particular guild or organization (Guild Persona) or between really close friends.
+3. Private personas are private and owned by one person and cannot be shared unless the user changes usage scope.
+
+### E. Team based Role Play Chat
 
 We can have fun scenario role play games in the system leveraging the public shared persona system. Imagine doing a superhero team role play with your friends vs a supervillian team composed of your other friends.
 
-### E. Persona / Avatar Marketplace
+### F. Persona / Avatar Marketplace
 
 There can be a marketplace where you can design your (OC) or  [Original Character](https://en.wiktionary.org/wiki/original_character) and essentially rent this out for credits in the system for anyone who wants to use said character for a given time period in the system. The system will also have public system avatars either for rent or free or available in exchange or karma. Think of this marketplace as a costume or character shop where you can if you can afford with karma  or credits become your favourite cartoon character or superhero or be some mythical sea creature.
 
-### F. Avatar Design / Import
+### G. Avatar Design / Import
 
 The end user can import images for their avatar which is initially 2D but can eventually be 3D. A designer tool for avatars is out of scope but possible in the future.
 
-### G. Avatar Chat
+### H. Avatar Chat
 
 We can have 3D gesture based chat but this is reserved for a future version probably aimed at a desktop client.
 
-### H. OAuth support and authentication
+### I. OAuth support and authentication
 
 We will support [OAuth](https://oauth.net/) and optional two factor authentication (mail loop or SMS loop). Other secure and mature authentication methods may also be considered.
 
-### I. Password and account recovery
+### J. Password and account recovery
 
 We will support the typical password and user account recovery options via registered email.
 
-### J. Karma and Credits
+### K. Karma and Credits
 
 The system will have two currencies to facilitate transactions. Karma is earned by certain actions that the system deems prosocial and is used to unlock some in network features and credit is cash converted into an in network virtual currency to buy virtual and possibly physical goods and set and pay bounties for certain tasks. This credit system can eventually be expanded to the point that we can become a superapp. (And compete with X and the Chinese Superapps)  The advantage we have is that we are designing from scratch and building in privacy unlike the abovementioned superapps and we will be based in the EU which is a well known advocate of [not collecting too much information from the users of online platforms](https://gdpr.eu/what-is-gdpr/). We will be totally transparent as to what data we collect and why and will have options for deleting financial transactions after some time if no claims of fraud or wrong doing with regards to aforementioned transactions are made.
 
-### K. Bounties and Tasks
+### L. Bounties and Tasks
 
 Users can set bounties for any task in the system with credits and get volunteers to work on these in exchange for credits.
 
-### L. Formal and Informal Debates
+### M. Formal and Informal Debates
 
 1. Formal Debates can be Oxford style debates among individuals or teams. Teams can adopt a Team Persona for the duration of the said debate and appear in the system as a single character voicing all their collective arguments. The Oxford style debates are a common format in professional debate circles and explanation of the said format can be found in this [link](https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/oxford)
 There will be formal winners and losers in the debates decided by votes as outlined in the link above.
 
 2. Informal Debates can be practice sessions and a vote after the debate is optional
 
-### M. Brainstorming Sessions
+### N. Brainstorming Sessions
 
 We will have veiled brainstorming sessions and the participants in said session can be randomly selected to hopefully reflect diverse viewpoints. The participants can rate each other after the sessions and become friends and drop the veil if they wish.
 
-### N. Friend list
+### O. Friend list
 
 We are a social network and of course we can help you keep track of your friends but to become friends you got to drop the veil and get to know each other. 
 
-### O. Senpai System for Recruitment
+### P. Senpai System for Recruitment
 
 We want a social network with outstanding members and the best means to do that is to offer incentives for current members in good standing in the network to sponsor or endorse others as worthy of joining. The benefit of this is that even if the network is mostly anonymous there are actual members in that know your real identity and are willing to vouch for you. The senpai or sponsors can earn karma for recruits that do good in the system and may get a karma demerit if they endorse someone who is not up to any good in the system.
 
-### P. Organizations and Guilds
+### Q. Organizations and Guilds
 
 We will support organizations/guilds as a native entity in the system with membership and rules defined by the organization admin. This can be like discord communities and / or  schools or corporate or governmental entities or non profit organizations.
 We can  be the platform of choice for organizing and executing actions after consensus in a given group is reached or simply a means of having fun and socializing. We will not control the aims of these groups as they are free to do as they please as long as no laws are broken and everyone's interests are protected.
 
-### Q. Voting and Consensus Platform
+### R. Voting and Consensus Platform
 
 We will support various voting systems and one of them is examined in detail in this [document](https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md). Group consensus is essential in many organizations and beng consulted upon helps build group cohesion prior to any major activity that may affect the members of the group. This feature can be a corporate decision makimg aid as well as a means of ensuring the group members have say in pertinent issues.
 
-### R. Question and Answer System
+### S. Question and Answer System
 
 We can have a system where user who is frustrated at not having the right answer found can ask while using the veil and get answers from other users in the system. The incentive for those that answer these questions can come in many forms.
 
@@ -124,23 +130,23 @@ We can have a system where user who is frustrated at not having the right answer
 
 We can define other rewards in the future and those are merely indicative of what is possible. This can eventually build up to a collective knowledge base that shall be searchable and ranked by up votes and down votes in a given category. Corporations can use this tool to build custom knowledge bases and these can be made private and hosted in their own cloud or server platform for a fee if they fear leakage of proprietary corporate information.
 
-### S. Skills Rating System
+### T. Skills Rating System
 
 We will have a curated list of skills that is translated to multiple languages but is internally represented as a single token per skill and details of it can be seen [here](https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md#skill-rating). These skills can be used in job search, freelancing and organizational decision making as outlined in the abovementioned document. Skill points can be earned via exams, answering questions, participating in debates and other activities.
 
-### T. Com snippets and async chat feature
+### U. Com snippets and async chat feature
 
 We aim to provide quality audio and video chat over slow networks with our async chat feature.
 
-### U. Public Com Snippets
+### V. Public Com Snippets
 
 The user can create audio and/or video and set a com snippet public which can be accessible via rss feeds as a video or audiocast. We can facilitate webcast, podcast and other content creation modalities like webcasts where you appear as not yourself but as your OC or persona.
 
-### V. Peer to Peer Credit Transfer
+### W. Peer to Peer Credit Transfer
 
 This is our entry point to becoming a superapp. Maybe our app once widely adopted can be used for remittance by foreign and guest workers in the first world to the third world to bypass [remittance fees](https://remittanceprices.worldbank.org/) and forex fees.
 
-### W. VR/AR support 
+### X. VR/AR support 
 
 We may suppport VR/AR devices in the future but for now we will focus on market reach via apps that can be deployed even on low spec smartphones and desktops.
 
