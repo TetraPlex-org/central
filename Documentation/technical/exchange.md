@@ -18,7 +18,7 @@ It ensures a stable price and a fair distribution of karma/credits with maximum 
 title: Exchange
 ---
 classDiagram
-    class User{
+    class Account{
         -Fraction gifted_karma
         -Fraction tradeable_karma
         -Fraction credits
@@ -27,10 +27,10 @@ classDiagram
         make_bid4karma()
         make_bid4credit()
     }
-    User "1" --o "1" KarmaOffer : makes {Offer <= User.tradeable_karma>}
-    User "1" --o "1" CreditOffer : makes {Offer <= User.credits}
-    User "1" --o "*" Bid4Karma : makes {Bid <= User.credits}
-    User "1" --o "*" Bid4Credit : makes {Bid <= User.tradeable_karma}
+    Account "1" --o "1" KarmaOffer : makes {Offer <= User.tradeable_karma>}
+    Account "1" --o "1" CreditOffer : makes {Offer <= User.credits}
+    Account "1" --o "*" Bid4Karma : makes {Bid <= User.credits}
+    Account "1" --o "*" Bid4Credit : makes {Bid <= User.tradeable_karma}
 
     KarmaAuction <|-- Auction
     KarmaAuction --o "*" KarmaOffer : has {Offer}

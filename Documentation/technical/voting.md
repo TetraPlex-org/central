@@ -14,18 +14,26 @@ A Person has a uniquely identifiable identity with data required to be especiall
 
 ```mermaid
 classDiagram
+direction LR
     class Person{
         -str legal_name
         -str legal_address
+        -str birth_date
         -str legal_id
         -str bank_account
         -str phone_number
+        -str email_address
+        -str social_security_number
     }
 
-    class User{
-        -uuid user_id
-        -str user_name
-
+    class Account{
+        -int account_id
+        %% jwt token, used to login, simplest form of authentication, can't be used to access personal data
+        -str access_token
+        %% token used by OTP (one time password) apps like google authenticator for two-factor authentication
+        -str tan_token
+        %% senpai is the account that introduced this account to the system
+        -int senpai_account_id
     }
 
     class Device{
@@ -36,15 +44,23 @@ classDiagram
         -str device_os_version
         -str device_browser
         -str device_browser_version
+        -str location
     }
 
     class Persona{
         -str persona_name
         -str persona_description
         -str persona_image
+        -str persona_bio
+        -str persona_location
+        -str persona_occupation
+        -str persona_education
+        -str persona_birthdate
     }
 
-    User --o Device : owns
+    Account "n" --> "n" Persona : has
+    Person "1" --> "n" Account : identifies
+    Account --> Device: has_access_to
 ```
 
 
@@ -55,8 +71,7 @@ To faciliate transparent and fair relative skill ranking among the pool of voter
 
 ```mermaid
 classDiagram
-    class User
-    User --o SkillRating : has
+    Persona --o SkillRating : has
     class Skill{
         -str icon
         -int[enum] skill_id
