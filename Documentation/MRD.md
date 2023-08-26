@@ -154,6 +154,10 @@ This is our entry point to becoming a superapp. Maybe our app once widely adopte
 
 We may suppport VR/AR devices in the future but for now we will focus on market reach via apps that can be deployed even on low spec smartphones and desktops.
 
+### Z. End User Feature Request
+
+We may choose to add other features as necessary and we will provide a mechanism for our users to propose and vote on features that they want to have implemented on our system. Some users could if they want use credits to fully fund or sponsor a feature that they really need or desire and this may be useful for our corporate users who may have particular workflow or communications requirements that are not currently met by any tool in the market.
+
 ## VII. Metrics
 
 We aim to measure up to our lofty ambitions of being the less toxic, enlightened and useful social network by many means but primarily with objective metrics like user acquisition and churn rate (how many users go use our platform and stay there) and subjective metrics like end user statisfaction surveys that a random sample of end users can opt to take to gain karma in the system. We will use these metrics to drive improvements in end user loyalty and become the best social network in the planet by any given metric eventually. Once again our advantage over the incumbents is that their ad based model is their life blood and they can't really pivot away from that business model without killing or severely damaging their very profitable online ad sales business. We can rely less on ads and make ads optional to users who want to support us by watching an ad of their choice. (So another metric is ads watched per month) and user subscriptions for an ad free experience (Another metric is total monthly subscribers). These aren't a comprehensive list of the metrics we can and will use to drive the system into a positive feedback loop and are only indicative of what is possible if we get this running and we will. (soon)
