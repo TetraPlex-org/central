@@ -156,7 +156,7 @@ We may suppport VR/AR devices in the future but for now we will focus on market 
 
 ### Z. End User Feature Request
 
-We may choose to add other features as necessary and we will provide a mechanism for our users to propose and vote on features that they want to have implemented on our system. Some users could if they want use credits to fully fund or sponsor a feature that they really need or desire and this may be useful for our corporate users who may have particular workflow or communications requirements that are not currently met by any tool in the market.
+We may choose to add other features as necessary and we will provide a mechanism for our users to propose and vote on features that they want to have implemented on our system. Some users could if they wish use their credits to fully fund or sponsor a feature that they really need or desire and this may be useful for our corporate users who may have particular workflow or communications requirements that are not currently met by any tool in the market.
 
 ## VII. Metrics
 
