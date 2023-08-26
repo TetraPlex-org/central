@@ -20,11 +20,14 @@ direction LR
         -str legal_address
         -str birth_date
         -str legal_id
-        -str bank_account
         -str phone_number
         -str email_address
         -str social_security_number
     }
+    Person --* BankingDetails
+
+    class BankingDetails
+
 
     class Account{
         -int account_id
