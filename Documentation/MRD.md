@@ -142,11 +142,15 @@ We aim to provide quality audio and video chat over slow networks with our async
 
 The user can create audio and/or video and set a com snippet public which can be accessible via rss feeds as a video or audiocast. We can facilitate webcast, podcast and other content creation modalities like webcasts where you appear as not yourself but as your OC or persona.
 
-### W. Peer to Peer Credit Transfer
+### W. Persona Followers
+
+One or more of your Personas can become a famous content creator in and out of our platform and hence users can choose to follow as many personas on the system as they wish for updates. This enables granular sharing not possible on current social networks where you might broadcast stuff to friends who doesn't share your interest in anime or your work related stuff. Friends are user level while Followers are Persona level but you will see both when you are in the system as separate lists.
+
+### X. Peer to Peer Credit Transfer
 
 This is our entry point to becoming a superapp. Maybe our app once widely adopted can be used for remittance by foreign and guest workers in the first world to the third world to bypass [remittance fees](https://remittanceprices.worldbank.org/) and forex fees.
 
-### X. VR/AR support 
+### Y. VR/AR support 
 
 We may suppport VR/AR devices in the future but for now we will focus on market reach via apps that can be deployed even on low spec smartphones and desktops.
 
