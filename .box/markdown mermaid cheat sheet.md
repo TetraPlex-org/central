@@ -143,11 +143,11 @@ This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
 
-YouTube Videos
+## YouTube Videos
 They can't be added directly but you can add an image with a link to the video like this:
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0CkQXqs1Feo/0.jpg)](http://https://www.youtube.com/watch?v=0CkQXqs1Feo)
 
-Structure
+# Mermaid
 
 ```mermaid
 graph TD
