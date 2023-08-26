@@ -7,50 +7,53 @@ In the fast-paced world of technology or in intense global competition for marke
 
 
 ## Users, Devices and Personas - Identity
-A *Person* is a natural, legal person by definition of law. This represents the organic being behind the device in meatspace. A *User* is a digital identity, an account, that is associated with a *Person* and is used to interact with the system. A *User* can have multiple *Devices* associated with it. A device can be owned by a single specific Person, who has owned *Device* is a digital identity that is associated with a *User* and is used to interact with the system. A *Device* can be a computer, a smartphone, a tablet, a smartwatch, a smart speaker, a smart TV, a smart fridge, a smart car, a smart home, a smart city, a smart planet, a smart universe, a smart multiverse, a smart omniverse, a smart metaverse, a smart megaverse, a smart xenoverse, a smart hyperverse, a smart brane, a smart universe cluster, a smart multiverse cluster, a smart omniverse cluster, a smart metaverse cluster, a smart megaverse cluster, a smart xenoverse cluster, a smart hyperverse cluster. (Nevermind that, I got carried away.)
+A *Person* is a natural, legal person by definition of law - a **Legal Entity**. This represents the organic being behind the device in meatspace or a legal entity in general, like an organisation represented by an individual of their choosing. An *Account* is a digital identity, that is associated with a *Person* or organisation and is used to interact with the system. An *Account* can be associated with multiple *Devices* associated with it. A device can be owned by a single specific Account, who has the right to deny other Accounts to use this device. A *Device* can be a computer, a smartphone, a tablet, a smartwatch, a smart speaker, a smart TV, a smart fridge, a smart car, a smart home, a smart city, a smart planet, a smart universe, a smart multiverse, a smart omniverse, a smart metaverse, a smart megaverse, a smart xenoverse, a smart hyperverse, a smart brane, a smart universe cluster, a smart multiverse cluster, a smart omniverse cluster, a smart metaverse cluster, a smart megaverse cluster, a smart xenoverse cluster, a smart hyperverse cluster. (Nevermind that, I got carried away.)
 
-A Person has a uniquely identifiable identity with data required to be especially well protected (in a seperate database for example, or some blockchain).
+A legal entity has a uniquely identifiable identity with data required that must be especially well protected (in a seperate database for example, or some blockchain).
+This is further discussed under [**private data**](https://github.com/TetraPlex-org/basics/blob/6a845115b2fab143d1674b0ebe3039730ead5091/Documentation/technical/private%20data.md).
 
 
 ```mermaid
 classDiagram
 direction LR
-    class Person{
+    class LegalEntity{
+        -int legal_entity_id
         -str legal_name
         -str legal_address
-        -str birth_date
-        -str legal_id
         -str phone_number
         -str email_address
-        -str social_security_number
     }
-    Person --* BankingDetails
-
-    class BankingDetails
 
 
     class Account{
         -int account_id
-        %% jwt token, used to login, simplest form of authentication, can't be used to access personal data
-        -str access_token
-        %% token used by OTP (one time password) apps like google authenticator for two-factor authentication
-        -str tan_token
         %% senpai is the account that introduced this account to the system
         -int senpai_account_id
+        -bool is_main_account
+        %% jwt token, used to login, simplest form of authentication, can't be used to access personal data
+        -str access_token
+        %% jwt token to derive fake access tokens to identify security leaks
+        -str honeypot_token
+        %% token used by OTP (one time password) apps like google authenticator for two-factor authentication (or how does this work?)
+        -str tan_token
+
+        +set_as_main_account()
+        +merge_accounts()
     }
 
     class Device{
-        -uuid device_id
+        -int device_id
         -str device_name
         -str device_type
         -str device_os
         -str device_os_version
         -str device_browser
         -str device_browser_version
-        -str location
+        -str device_location
     }
 
     class Persona{
+        -int persona_id
         -str persona_name
         -str persona_description
         -str persona_image
@@ -59,10 +62,11 @@ direction LR
         -str persona_occupation
         -str persona_education
         -str persona_birthdate
+        -Fraction total_voting_power
     }
 
     Account "n" --> "n" Persona : has
-    Person "1" --> "n" Account : identifies
+    LegalEntity "1" --> "n" Account : identifies
     Account --> Device: has_access_to
 ```
 
@@ -77,9 +81,13 @@ classDiagram
     Persona --o SkillRating : has
     class Skill{
         -str icon
-        -int[enum] skill_id
-        -str description_en
-        -str description_de
+        -str skill_name
+    }
+
+    class Translation{
+        -str skill_name
+        -str language
+        -str translation
     }
     %% Why just en and de thou can we make another class for localization and use language independent tokens  (can be string) for the skill desc or any desc
 
