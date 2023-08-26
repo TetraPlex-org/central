@@ -72,7 +72,7 @@ We can have 3D gesture based chat but this is reserved for a future version prob
 
 ### H. OAuth support and authentication
 
-We will support [Oauth](https://oauth.net/) and optional two factor authentication (mail loop or SMS loop). Other secure and mature authentication methods may also be considered.
+We will support [OAuth](https://oauth.net/) and optional two factor authentication (mail loop or SMS loop). Other secure and mature authentication methods may also be considered.
 
 ### I. Password and account recovery
 
