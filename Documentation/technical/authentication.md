@@ -1,6 +1,6 @@
 # Authentication
 
-## A new Account
+## Account Creation
 As outlined in **voting**, all sensitive data is stored and handled separately through LegalEntity. The Account on the other hand represents the login of a user, with no sensitive data attached to it. A **User** is a person who has an Account or wants to interact with the system in some way.
 At first, all Accounts are anonymous, with no sensitive data attached to them. The user can choose to attach sensitive data in order to gain access to more features, but this is not required. The main purposes of attaching sensitive data is to gain access to the voting system (as only identified users can vote), being able to regain access to the account in case of having lost access to the account.
 
@@ -27,13 +27,13 @@ title: Account Creation
 ---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TB
-  %% Trigger Event
   TRIGGER(["User wants to have an account"])-->S1
   S1["User asks someone who has an account to get invited"]-->S2
   S2["User gets invitation link"]-->S3
   S3["User follows invitation link"]-->S4
   S4["User Client and System exchange public keys"]-->S5
-  S5["System creates account without asking for any personal information"]-->S6
+  S5["System creates account without asking for any personal information"]-->S6 & S6a1
+  S6a1[/"System sends User an encrypted honeypot token"/]
   S6["System sends User an encrypted jwt for login"]-->S7
   S7["User Client decrypts jwt and stores the token in a password manager"]-->S8
   S8["User Client logs in using the jwt"]-->S9
@@ -47,15 +47,14 @@ title: Honeypot Token
 ---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TB
-  %% Trigger Event
-  TRIGGER(["System sends User Client an encrypted jwt for login"])-->S1
-  S1["System sends a second jwt to be decrypted and stored in plaintext on disk, impossible to distinguish from a proper access token"]-->S2
+  TRIGGER(["System sends User an encrypted honeypot token, indistinguishable to a real access key"])-->S1
+  S1["User Client decrypts the token and stores it in plaintext on disk"]-->S1a1
+  S1a1["Intruder steals the token"]-->S2
   S2["Intruder tries to use plaintext jwt to login"]-->S3
-  S3["System detects the use of the honeypot token and lets the connection time out with no error."]-->S4 & S5
-  S4[/"Intruder is confused"/]
-  S5["System logs the intrusion attempt and alerts the User"] --> S6
-  S6(["User is happy"])
-
+  S3[System detects the use of the honeypot token and lets the connection time out with no error.]-->S4 & S5
+  S4[/Intruder is confused/]
+  S5[System logs the intrusion attempt and alerts the User] --> SUCCESS
+  SUCCESS([User is happy to get a chance to actively counter the attack])
 
 ```
 
@@ -71,9 +70,7 @@ title: Login
 ---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TB
-   %% Trigger event
    TRIGGER(["`User asks the system to log them in`"])-->S1
-   %% Main success scenario
   S1["`The system renders the login screen and asks the user to provide Key`"]-->S2
 
 ```
@@ -130,7 +127,6 @@ title: Login
 ---
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TB
-   %% Trigger event
    TRIGGER(["`The user asks the system to log them in using their Google or FB accounts`"])-->S1
 
    %% Main success scenario
