@@ -35,7 +35,7 @@ direction LR
         %% jwt token to derive fake access tokens to identify security leaks
         -str honeypot_token
         %% token used by OTP (one time password) apps like google authenticator for two-factor authentication (or how does this work?)
-        -str tan_token
+        -str otp_key
 
         +set_as_main_account()
         +merge_accounts()
