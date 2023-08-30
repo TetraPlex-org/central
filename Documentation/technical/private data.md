@@ -36,6 +36,7 @@ direction LR
 ```
 ## Use Cases
 
+Here is a good writeup on [private data use cases](https://www.linkedin.com/pulse/data-privacy-use-cases-age-gdpr-covering-basics-laura-begieneman) and it does cover GDPR.
 
 
 ## Requirements
