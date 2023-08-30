@@ -10,7 +10,7 @@ In the fast-paced world of technology or in intense global competition for marke
 A *Person* is a natural, legal person by definition of law - a **Legal Entity**. This represents the organic being behind the device in meatspace or a legal entity in general, like an organisation represented by an individual of their choosing. An *Account* is a digital identity, that is associated with a *Person* or organisation and is used to interact with the system. An *Account* can be associated with multiple *Devices* associated with it. A device can be owned by a single specific Account, who has the right to deny other Accounts to use this device. A *Device* can be a computer, a smartphone, a tablet, a smartwatch, a smart speaker, a smart TV, a smart fridge, a smart car, a smart home, a smart city, a smart planet, a smart universe, a smart multiverse, a smart omniverse, a smart metaverse, a smart megaverse, a smart xenoverse, a smart hyperverse, a smart brane, a smart universe cluster, a smart multiverse cluster, a smart omniverse cluster, a smart metaverse cluster, a smart megaverse cluster, a smart xenoverse cluster, a smart hyperverse cluster. (Nevermind that, I got carried away.)
 
 A legal entity has a uniquely identifiable identity with data required that must be especially well protected (in a seperate database for example, or some blockchain).
-This is further discussed under [**private data**](https://github.com/TetraPlex-org/basics/blob/6a845115b2fab143d1674b0ebe3039730ead5091/Documentation/technical/private%20data.md).
+This is further discussed under [**private data**](https://github.com/TetraPlex-org/basics/Documentation/technical/private%20data.md).
 
 
 ```mermaid
