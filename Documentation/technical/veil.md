@@ -1,7 +1,7 @@
 # Veiled Q|A
 
 ## What is the Veil?
-The veil is a concept that is used to describe the virtual separation of the two sides of a dialog. Both sides are oblivious who the other side may be and only the messages (com-snippets) passed through to the other side are visible - imagine the [*chinese room paraodox*](https://en.wikipedia.org/wiki/Chinese_room) where it is not possible to tell if there is a human or a machine inside the room by the messages passed through the door. On either side, there can be a multitude of people or machines composing in concert replies to the messages passed to them through the veil.
+The veil is a concept that is used to describe the virtual separation of the two sides of a dialog. Both sides are oblivious who the other side may be and only the messages (com-snippets) passed through to the other side are visible - imagine the [*chinese room paradox*](https://en.wikipedia.org/wiki/Chinese_room) where it is not possible to tell if there is a human or a machine inside the room by the messages passed through the door. On either side, there can be a multitude of people or machines composing in concert replies to the messages passed to them through the veil.
 
 ## How does the Veil work from the perspective of a Questioner?
 A Questioner is a User who has a specific question. Initially, they have no account and want to try the system.
