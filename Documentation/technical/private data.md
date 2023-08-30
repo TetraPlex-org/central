@@ -45,11 +45,11 @@ We should use [GDPR Subject Rights](https://www.gdprsummary.com/data-subject-rig
 1. The right to be informed
 2. The right of access
 3. The right to rectification
-3. The right to erasure
-4. The right to restrict processing
-5. The right to data portability
-6. The right to object
-7. Rights about automated decision making and profiling.
+4. The right to erasure
+5. The right to restrict processing
+6. The right to data portability
+7. The right to object
+8. Rights about automated decision making and profiling.
 
 
 
