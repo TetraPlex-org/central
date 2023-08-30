@@ -51,7 +51,7 @@ We should use [GDPR Subject Rights](https://www.gdprsummary.com/data-subject-rig
 7. The right to object
 8. Rights about automated decision making and profiling.
 
-Other considerations should be cost of data storage and potential for leakage of data metadata.
+Other considerations should be cost of data storage and potential for leakage of metadata.
 
 
 
