@@ -44,12 +44,14 @@ We should use [GDPR Subject Rights](https://www.gdprsummary.com/data-subject-rig
 
 1. The right to be informed
 2. The right of access
-3. The right to rectification
+3. The right to rectification (public immutable data stores can't address this as well as the next)
 4. The right to erasure
 5. The right to restrict processing
 6. The right to data portability
 7. The right to object
 8. Rights about automated decision making and profiling.
+
+Other considerations should be cost of data storage and potential for leakage of data metadata.
 
 
 
