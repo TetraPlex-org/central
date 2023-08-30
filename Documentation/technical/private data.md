@@ -1,6 +1,6 @@
 # Private Data
 
-As outlined in **voting**, all sensitive data is stored and handled separately through LegalEntity.
+As outlined in [**voting**](https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md), all sensitive data is stored and handled separately through LegalEntity.
 
 ```mermaid
 classDiagram
