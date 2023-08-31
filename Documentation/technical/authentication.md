@@ -1,7 +1,7 @@
 # Authentication
 
 ## Account Creation
-As outlined in **voting**, all sensitive data is stored and handled separately through LegalEntity. The Account on the other hand represents the login of a user, with no sensitive data attached to it. A **User** is a person who has an Account or wants to interact with the system in some way.
+As outlined in [**voting**](https://github.com/TetraPlex-org/basics/blob/main/Documentation/technical/voting.md), all sensitive data is stored and handled separately through LegalEntity. The Account on the other hand represents the login of a user, with no sensitive data attached to it. A **User** is a person who has an Account or wants to interact with the system in some way.
 At first, all Accounts are anonymous, with no sensitive data attached to them. The user can choose to attach sensitive data in order to gain access to more features, but this is not required. The main purposes of attaching sensitive data is to gain access to the voting system (as only identified users can vote), being able to regain access to the account in case of having lost access to the account as well as being able to use parts of the system that require credits or financial data.
 
 So, how to get an Account?
@@ -15,7 +15,7 @@ So, how to get an Account?
       Ask friend for an invite: 3: User
       Get invitation link: 3: User
       Follow link: 3: User
-      Safe key in Chrome as password: 3: User
+      Store key in Chrome as password: 3: User
 ```
 
 ## Invitation Link
