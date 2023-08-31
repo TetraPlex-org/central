@@ -24,21 +24,25 @@ direction LR
         -str email_address
     }
 
-
     class Account{
         -int account_id
         %% senpai is the account that introduced this account to the system
         -int senpai_account_id
         -bool is_main_account
-        %% jwt token, used to login, simplest form of authentication, can't be used to access personal data
-        -str access_token
-        %% jwt token to derive fake access tokens to identify security leaks
-        -str honeypot_token
         %% token used by OTP (one time password) apps like google authenticator for two-factor authentication (or how does this work?)
         -str otp_key
 
         +set_as_main_account()
         +merge_accounts()
+    }
+
+    class LoginToken{
+        -int login_token_id
+        -int account_id
+        -int device_id
+        %% honeypot, regular account, bot account, etc.
+        -int login_token_type
+
     }
 
     class Device{
@@ -67,7 +71,9 @@ direction LR
 
     Account "n" --> "n" Persona : has
     LegalEntity "1" --> "n" Account : identifies
-    Account --> Device: has_access_to
+    Account --> Device: has
+    Account "1" --> "n" LoginToken: has
+    LoginToken "1" --> "1" Device: gives_access_to
 ```
 
 
