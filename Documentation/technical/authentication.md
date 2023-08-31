@@ -15,7 +15,7 @@ So, how to get an Account?
       Ask friend for an invite: 3: User
       Get invitation link: 3: User
       Follow link: 3: User
-      Safe key in Chrome as password: 3: User
+      Store key in Chrome as password: 3: User
 ```
 
 ## Invitation Link
