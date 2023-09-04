@@ -7,6 +7,7 @@ Let's call *credits* **Tc** (TetraPlex credits) and *karma* **Tk** (TetraPlex ka
 classDiagram
 direction LR
     class LegalEntity{
+        -int legal_id
         -str legal_name
         -str legal_address
         ...
@@ -31,12 +32,21 @@ direction LR
         -str region_currency
         -Fraction region_base_price
     }
+    class Purchase{
+        -int purchase_id
+        -int account_id
+        -int bargain_id
+        -int region_id
+        -int time
+    }
 
 
 ```
 
 
-## How to get Credits?
+
+
+## How to get Credits? Considerations and User Stories
 Finding a good price that is acceptable for everyone is a very difficult task. Since this is about buying a virtual commodity with real-life money, we have to be very careful to not be seen as a scam or otherwise fraudulent, immoral or illegal. This means that prices need to be adjusted to regional differences in income while making it difficult for rich people to circumvent regional price differences using VPNs and multiple straw-man accounts or buying in bulk and selling at a higher price later or causing inflation and thus cheapening the value for everyone.
 
 
@@ -54,3 +64,5 @@ to the price. This means that the price increases logarithmically with the amoun
     10 $ * 10 = 100 + sum(log(x)*x for x in range(100, 1010, 10)) $ = 322121 $
 
 for 1000 credits. This is a lot of money, if you are not willing to wait between purchases, which would cause the logarithmic price to drop again.
+
+## Who is willing to pay for Credits? (Target Audience - Personas)
