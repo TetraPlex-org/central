@@ -35,6 +35,16 @@ direction LR
 
 ```
 
+## Who would buy Credits?
+We envision credits as an incentive system for those with the financial means to offer bounties for some tasks that he or she wants to accomplish but do not have either the time of skill to accomplish within acceptable time and quality parameters. We however aim to be fair and allow people with limited means to be able to afford credits too to be similarly be able to participate in the in network economy and access the skills of other people in this network. Hence Tetraplex is a gig economy platform for people who want extra income as well as a platform for being able to find transient labor for certain tasks. We probably need some guidelines on what services are allowed in the system. Some things like law or medicine maybe off limits due to medical and / or legal risks.
+
+## Credit Buyer Personas
+* Frank is an entrepreneur and wants someone to test his new web platform. He pays credits to the system, the system takes transaction fees and a freelance tester does the task and files a report for a bounty claim, the tester gets paid in credits after Frank sees the report.
+
+* Amy is setting up a new startup and wants a lawyer to review her Founders Agreement. She sets up a bounty and a skilled law student reviewed her documents. The law student made document revisions and told her to consult a real lawyer but the edits made sense and he gets paid after the edits were reviewed.
+
+* James is a furry and wants a bear avatar... he sets a bounty for his furry persona (fursona) and a graphics artist designs a reference sheet (ref sheet) for his bear OC (Original Character) based on the character bio and description that was on the bounty. The graphics artist was paid credits after the avatar and ref sheet was reviewed and accepted. James now uses the bear avatar in Tetraplex and is very happy.
+
 
 ## How to get Credits?
 Finding a good price that is acceptable for everyone is a very difficult task. Since this is about buying a virtual commodity with real-life money, we have to be very careful to not be seen as a scam or otherwise fraudulent, immoral or illegal. This means that prices need to be adjusted to regional differences in income while making it difficult for rich people to circumvent regional price differences using VPNs and multiple straw-man accounts or buying in bulk and selling at a higher price later or causing inflation and thus cheapening the value for everyone.
