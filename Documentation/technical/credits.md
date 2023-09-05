@@ -44,7 +44,7 @@ We can also use credits for art commissions in the context of avatars. The diffe
 
 * Amy is setting up a new startup and wants a lawyer to review her Founders Agreement. She sets up a bounty and a skilled law student reviewed her documents. The law student made document revisions and told her to consult a real lawyer but the edits made sense and he gets paid after the edits were reviewed.
 
-* James is a furry and wants a :bear: avatar... he sets a bounty for his furry persona (fursona) and a graphics artist designs a reference sheet (ref sheet) for his :bear: OC (Original Character) based on the character bio and description that was on the bounty. The graphics artist was paid credits after the avatar and ref sheet was reviewed and accepted. James now uses the :bear: avatar in Tetraplex and is very happy and commissions the same artist for his 🦝 avatar and ref sheet.
+* James is a [furry](https://furscience.com/whats-a-furry/) and wants a :bear: avatar... he sets a bounty for his furry persona (fursona) and a graphics artist designs a reference sheet (ref sheet) for his :bear: OC (Original Character) based on the character bio and description that was on the bounty. The graphics artist was paid credits after the avatar and ref sheet was reviewed and accepted. James now uses the :bear: avatar in Tetraplex and is very happy and commissions the same artist for his 🦝 avatar and ref sheet.
 
 
 ## How to get Credits?
