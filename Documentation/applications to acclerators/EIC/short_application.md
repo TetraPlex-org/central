@@ -50,15 +50,19 @@ Our company is a pre seed software development firm that has yet to incorporate 
 
 Anselm Kiefner
 CEO
+
 Bachelor of Science
 
 An expert in Python and a notable [author of several open source libraries](https://github.com/amogorkon).
 
 Joel Alcarez
 CSO/ Interim CTO
+
 Bachelor of Science
 Dean's Lister
+
 Certified Scrum Master
+
 [Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
 
 [Author of one open source graphics libary](https://github.com/TechnoTanuki/Python_BMP)
