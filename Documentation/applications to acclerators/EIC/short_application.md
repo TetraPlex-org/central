@@ -59,6 +59,7 @@ Joel Alcarez
 CSO/ Interim CTO
 
 Bachelor of Science
+
 Dean's Lister
 
 Certified Scrum Master
