@@ -84,7 +84,7 @@ cofounders.
 
 We have strong Python, C#, SQL and Data Science skills and hard science skills among the core technical team. We seem to be missing front end as well as UX/UI graphics artists and designers as well as some dev ops and data engineering talent, marketing, legal, etc  and EU funding can help us fill these gaps, create jobs in the EU and help us fulfill our vision for a pro social social network with positive dynamics that will be a vanguard for European values in a space that is dominated by the US and China.
 
-7. Funding request
+## 7. Funding request
 
 see [Excel sheet](soon)
 
