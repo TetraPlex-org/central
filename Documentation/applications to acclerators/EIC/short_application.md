@@ -48,37 +48,27 @@ Our company is a pre seed software development firm that has yet to incorporate 
 
 ## 6. Team and management
 
-Anselm Kiefner
-CEO
+>**Anselm Kiefner**
+>CEO
+>Bachelor of Science
+>An expert in Python and a notable [author of several open source libraries](https://github.com/amogorkon).
 
-Bachelor of Science
-
-An expert in Python and a notable [author of several open source libraries](https://github.com/amogorkon).
-
-Joel Alcarez
-CSO/ Interim CTO
-
-Bachelor of Science
-
-Dean's Lister
-
-Certified Scrum Master
-
-[Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
-
-[Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
-
-Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
-
-[Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python
+>**Joel Alcarez**
+>CSO/ Interim CTO
+>Bachelor of Science
+>Dean's Lister
+>Certified Scrum Master
+>[Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
+>[Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
+>Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
+>[Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python
 PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
 
 
-Sarah Geiselhart,
-COO
-Bachelor of Science
-3 years in Industry as QA and
-executive Assistant
+>**Sarah Geiselhart**
+>COO
+>Bachelor of Science
+>3 years in Industry as QA and executive Assistant
 
 The core founding team is mixed and diverse with one female out of three one asian out of three.
 
