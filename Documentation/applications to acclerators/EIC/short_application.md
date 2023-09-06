@@ -82,7 +82,7 @@ We can in the long run use or platform as a hiring tool stripping race, gender, 
 We have already reserved some shares  for future key employees and / or
 cofounders.
 
-We have strong Python, C#, SQL and Data Science skills and hard science skills among the core techinical team. We seem to be missing front end as well as UX/UI graphics artists and designers as well as some dev ops and data engineering talent, marketing, legal, etc  and EU funding can help us fill these gaps, create jobs in the EU and help us fulfill our vision for a pro social social network with positive dynamics that will be a vanguard for European values in a space that is dominated by the US and China.
+We have strong Python, C#, SQL and Data Science skills and hard science skills among the core technical team. We seem to be missing front end as well as UX/UI graphics artists and designers as well as some dev ops and data engineering talent, marketing, legal, etc  and EU funding can help us fill these gaps, create jobs in the EU and help us fulfill our vision for a pro social social network with positive dynamics that will be a vanguard for European values in a space that is dominated by the US and China.
 
 7. Funding request
 
