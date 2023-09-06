@@ -66,7 +66,7 @@ Certified Scrum Master
 
 [Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
 
-[Author of one open source graphics libary](https://github.com/TechnoTanuki/Python_BMP)
+[Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
 
 Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
 
