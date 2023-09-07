@@ -55,6 +55,7 @@ Bachelor of Science
 
 An expert in Python and a notable [author of several open source libraries](https://github.com/amogorkon).
 
+------------
 Joel Alcarez
 CSO/ Interim CTO
 
@@ -73,6 +74,7 @@ Author of one academic paper and inactive member of the [Philippine Physics Soci
 [Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python
 PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
 
+------------
 
 Sarah Geiselhart,
 COO
