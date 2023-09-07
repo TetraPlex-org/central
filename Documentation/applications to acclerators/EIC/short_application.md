@@ -48,36 +48,42 @@ Our company is a pre seed software development firm that has yet to incorporate 
 
 ## 6. Team and management
 
->**Anselm Kiefner**
->CEO
->Bachelor of Science
->An expert in Python and a notable [author of several open source libraries](https://github.com/amogorkon).
+**Anselm Kiefner**
+CEO
+Bachelor of Science
+An expert in Python and a notable [author of several open source libraries](https://github.com/amogorkon).
 
->**Joel Alcarez**
->CSO/ Interim CTO
->Bachelor of Science
->Dean's Lister
->Certified Scrum Master
->[Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
->[Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
->Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
->[Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python
+---
+
+**Joel Alcarez**
+CSO/ Interim CTO
+Bachelor of Science
+Dean's Lister
+Certified Scrum Master
+[Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
+[Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
+Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
+[Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python
 PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
 
+---
 
->**Sarah Geiselhart**
->COO
->Bachelor of Science
->3 years in Industry as QA and executive Assistant
+**Sarah Geiselhart**
+COO
+Bachelor of Science
+3 years in Industry as QA and executive Assistant
+
+
+### In conclusion
 
 The core founding team is mixed and diverse with one female out of three one asian out of three.
 
-We can in the long run use or platform as a hiring tool stripping race, gender, sexual orientation, age and religion and even appearance in hiring decisions via a job seeker persona that eliminate those and just focus on the pertiment skills and potential for growth by the individual that are not correlated to those factors in general.
+In the long run we will also use our platform as a hiring tool stripping race, gender, sexual orientation, age and religion and even appearance in hiring decisions via a job seeker persona to focus solely on the pertinent skills and potential for growth by the individual, unrelated to those superficial traits.
 
 We have already reserved some shares  for future key employees and / or
 cofounders.
 
-We have strong Python, C#, SQL and Data Science skills and hard science skills among the core technical team. We seem to be missing front end as well as UX/UI graphics artists and designers as well as some dev ops and data engineering talent, marketing, legal, etc  and EU funding can help us fill these gaps, create jobs in the EU and help us fulfill our vision for a pro social social network with positive dynamics that will be a vanguard for European values in a space that is dominated by the US and China.
+We have strong Python, C#, SQL and Data Science skills and hard science skills among the core team. We seem to be missing front end as well as UX/UI graphics artists and designers as well as some dev ops and data engineering talent, marketing, legal, etc. EU funding will help us fill these gaps, create jobs in the EU and help us fulfill our vision for a pro social social network with positive dynamics that will be a vanguard for European values in a space that is dominated by the US and China.
 
 ## 7. Funding request
 
