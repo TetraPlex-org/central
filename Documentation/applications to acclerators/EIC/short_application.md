@@ -46,32 +46,29 @@ We will monitor the platform and aim for a healthy balance between the interest 
 Our company is a pre seed software development firm that has yet to incorporate and plan to do so in Germany or a suitable EU country. We have been discussing and refining our ideas for sometime already and convinced by the necessity and viability of this idea is now applying at various accelerators and incubators to achieve initial product market fit then scale up.
 
 
-## 6. Team and management
+## 6. The Team
 
-**Anselm Kiefner**
-CEO
-Bachelor of Science
-An expert in Python and a notable [author of several open source libraries](https://github.com/amogorkon).
+**Anselm Kiefner - CEO** 
+* Bachelor of Science
+* Expert in Python and notable [author of several open source libraries](https://github.com/amogorkon).
 
 ---
 
-**Joel Alcarez**
-CSO/ Interim CTO
-Bachelor of Science
-Dean's Lister
-Certified Scrum Master
-[Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
-[Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
-Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
+**Joel Alcarez - CSO/Interim CTO**
+* Bachelor of Science
+* Dean's Lister
+* Certified Scrum Master
+* [Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
+* [Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
+* Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
 [Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python
 PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
 
 ---
 
-**Sarah Geiselhart**
-COO
-Bachelor of Science
-3 years in Industry as QA and executive Assistant
+**Sarah Geiselhart - COO**
+* Bachelor of Science
+* 3 years in Industry as QA and executive Assistant
 
 
 ### In conclusion
