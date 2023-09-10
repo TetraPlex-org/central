@@ -15,6 +15,7 @@ direction LR
     LegalEntity "1" --> "n" Account : identifies
     class Account{
         -Fraction credits
+        +transfer_credits(Fraction amount, Account target_account)
     }
 
     class Bargain{
