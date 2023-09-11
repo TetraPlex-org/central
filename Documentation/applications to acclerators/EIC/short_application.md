@@ -19,14 +19,11 @@ In positive interactions with the community, notably by helping in veiled Q|A se
 
 ## 3. Market and Competition analysis
 
-We are primarily competing in the [Anonymous Social Media space](https://en.wikipedia.org/wiki/Anonymous_social_media) and the [general social media space](https://www.statista.com/outlook/dmo/app/social-networking/worldwide)
-
-As for the anonymous Social Media space the players there may lack moderation and hence these aren't mainstream and there have been [reports of harassment and cyber bullying on these platforms](https://edition.cnn.com/2013/10/10/living/parents-new-apps-bullying/index.html)
-
-[Facebook and the old traditional social media can be seen as uncool by kids.](https://www.theatlantic.com/ideas/archive/2021/10/facebook-midlife-crisis-boomerbook/620307/) that now maybe trying out these newer social media sites and apps and some of these are anonymous.
-
-We aim to be the cool new anonymous social media platform while being safe for use due to karma and kid personas for the underaged.
-
+Market and Competition Analysis
+We are primarily competing in the [Anonymous Social Media Space](https://en.wikipedia.org/wiki/Anonymous_social_media) and the [general social media space](https://www.statista.com/outlook/dmo/app/social-networking/worldwide).
+As for the anonymous Social Media space, the users there may lack moderation; hence, these aren't mainstream, and there have been [reports of harassment and cyber bullying on these platforms](https://edition.cnn.com/2013/10/10/living/parents-new-apps-bullying/index.html).
+[Facebook and the old traditional social media can be seen as uncool by kids.](https://www.theatlantic.com/ideas/archive/2021/10/facebook-midlife-crisis-boomerbook/620307/). Many now may try out these newer social media sites and apps, and some of these are anonymous.
+We aim to be the incredible new anonymous social media platform while being safe for use due to karma and kid personas for the underaged.
 
 ## 4. Broad Impacts
 
