@@ -55,7 +55,7 @@ Our company is a pre seed software development firm that has yet to incorporate 
 * Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
 [Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python
 PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
-* Member of the 3rd best team in [IYLIC 2015](https://www.ifia.com/international-youth-conference/) that was also awarded a special Environmental Gold Medal for presenting the CRAVAT Project or Coral Reef Assessment Visualization and Advanced Tools
+* Member of the 3rd best team in [IYLIC 2015](https://www.ifia.com/international-youth-conference/) that was also awarded a special Environmental Gold Medal for presenting the [CRAVAT Project or Coral Reef Assessment Visualization and Advanced Tools](https://projects.pcieerd.dost.gov.ph/project/6562#!)
 * Member of a Finalist Team in the Schools category in the [6th Philippine Web Awards](https://philwebawardsarchive.org/the-6th-philippine-web-awards-2003/).
 * Former Member of the pioneer team of developers and graphics designers of the [Mapua University School portal and online enrollment system](https://www.mapua.edu.ph/)
 * Former Faculty at [Philippine Science High School, Main Campus](https://pshs.edu.ph/)
