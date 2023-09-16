@@ -3,7 +3,7 @@
 ## 1. Problem/market opportunity
 There is no European super-app or social media platform with integrated payments and workflows that can compete with the Chinese and even the existing American social media giants. There also have been growing concerns over the security of the Chinese, as well as the toxicity and lack of adequate moderation of the ad-driven American social media platforms. It is worrying that social media giants are collecting far too much personal information to feed us advertising, or worse, enable state actors to use them to monitor and manipulate their citizens and gather intel against political opposition.
 
-We need a European champion in this area that will promote liberal western values and be a platform for open debate and discussion without the toxicity of the current Web 2.0 platforms or the immaturity of the Web 3.0 frameworks. Almost all the technology required for realizing our platform is mature and matches TRL requirements. We can step in and be the European super-app that will be both trustworthy, being based in Europe where we care about data privacy and governance and be pro-social without the social engineering Chinese style.
+We need a European champion in this area that will promote liberal western values and be a platform for open debate and discussion without the toxicity of the current Web 2.0 platforms or the relative immaturity of the Web 3.0 frameworks. Almost all the technology required for realizing our platform is mature and matches TRL requirements. We can step in and be the European super-app that will be both trustworthy, being based in Europe where we care about data privacy and governance and be pro-social without the social engineering Chinese style.
 
 Innovations come in many forms, and it does not have to be technical. Countless mature technologies can be applied in ways that are innovative in a social or business sense. We will be a social network that can even be used in developing countries with mature technologies applied in a socially conscious manner, appropriate to target high-growth markets. We have several technical innovations qualifying as research or proof-of-concept in the works, but we will aim to make our platform usable on low-end smartphones and laptops used primarily in poor regions of the world. These technological innovations are non-essential for the success of the platform, but will make the platform more useful and productive.
 
@@ -66,13 +66,13 @@ PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downlo
 * Bachelor of Science
 * 3 years in Industry as QA and executive Assistant
 
-The core founding team is mixed and diverse with one female out of three one asian out of three.
+The core founding team is mixed and diverse with one female out of three one asian out of three and one non binary out of three.
 
 In the long run we will also use our platform as a hiring tool stripping race, gender, sexual orientation, age and religion and even appearance in hiring decisions via a job seeker persona to focus solely on the pertinent skills and potential for growth by the individual, unrelated to those superficial traits.
 
 We have already reserved some shares for future key employees and / or cofounders.
 
-We have strong Python, C#, SQL and Data Science skills and hard science skills among the core team. We seem to be missing front end as well as UX/UI graphics artists and designers as well as some dev ops and data engineering talent, marketing, legal, etc. EU funding will help us fill these gaps, create jobs in the EU and help us fulfill our vision for a pro social social network with positive dynamics that will be a vanguard for European values in a space that is dominated by the US and China.
+We have strong Python, C#, SQL, Scrum/Project Management, Data Science skills and hard science skills among the core team. We seem to be missing front end as well as UX/UI graphics artists and designers as well as some dev ops and data engineering talent, marketing, legal, etc. EU funding will help us fill these gaps, create jobs in the EU and help us fulfill our vision for a pro social social network with positive dynamics that will be a vanguard for European values in a space that is dominated by the US and China.
 
 ## 7. Funding request
 
