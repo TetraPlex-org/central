@@ -50,6 +50,7 @@ Our company is a pre seed software development firm that has yet to incorporate 
 **Joel Alcarez - CSO/Interim CTO**
 * Bachelor of Science
 * Masters of Science (Units)
+* Attended MBA (No Units earned)
 * Dean's Lister
 * Certified Scrum Master (obtained May 2010 and expired May 2012)
 * [Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
