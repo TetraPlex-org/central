@@ -62,6 +62,7 @@ Our company is a pre seed software development firm that has yet to incorporate 
 * Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
 [Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
 * Lecturer in the 26th and 27th Philippine Physics Society National Convention/Seminar-Workshop (with certificates)
+* Worked in a Chem / Bio University Research Lab as Laboratory Technician for a year and got [vendor certified with ICP-OES](https://www.perkinelmer.com/category/icp-oes-instruments)
 * Worked with several [US](https://online.rimscentral.com/) and [Scandinavian firms](https://web.scalepoint.com/) via outsourcing firms as Web developer and Senior Software Developer for six years total and obtained a letter of recommendation from one of them.
 * Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving local schools and universities
 * Former co-founder at two local startups not including this one.
