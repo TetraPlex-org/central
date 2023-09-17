@@ -50,7 +50,7 @@ Our company is a pre seed software development firm that has yet to incorporate 
 * Bachelor of Science
 * Masters of Science (Units)
 * Dean's Lister
-* Certified Scrum Master (obtained 2010 and expired 2012)
+* Certified Scrum Master (obtained May 2010 and expired May 2012)
 * [Author of one open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
 * [Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
 * Did a touch screen libary data kiosk while still an undergrad at university as a research project using Visual Basic 3.0 in the mid 1990s was also employed in the University Chemistry Testing Lab while doing undergrad as well as the University Computer Lab while in undergrad and while taking a Master's Degree (did not complete masters but earned units)
@@ -61,10 +61,9 @@ Our company is a pre seed software development firm that has yet to incorporate 
 [Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
 * Lecturer in the 26th and 27th Philippine Physics Society National Convention/Seminar-Workshop (with certificates)
 * Worked with several [US](https://online.rimscentral.com/) and [Scandinavian firms](https://web.scalepoint.com/) via outsourcing firms as Web developer and Senior Software Developer for six years total and obtained a letter of recommendation from one of them.
-* Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving local schools and universities
-* Former co-founder at two local startups not including this one.
+* Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving local schools and universiFormer co-founder at two local startups not including this one.
 * Member of the 3rd best team in [IYLIC 2015](https://www.ifia.com/international-youth-conference/) that was also awarded a special Environmental Gold Medal for presenting the [CRAVAT Project or Coral Reef Assessment Visualization and Advanced Tools](https://projects.pcieerd.dost.gov.ph/project/6562#!)
-* Former Faculty at [Philippine Science High School, Main Campus](https://pshs.edu.ph/) 
+* Former faculty for one year at [Philippine Science High School, Main Campus](https://pshs.edu.ph/) 
 * First Prize, Feature Writing Contest, Chematon '91 [University of Santo Thomas](https://www.ust.edu.ph/) for "BIOENERGY- A potential source of renewable energy" while still in high school
  
 
