@@ -38,7 +38,7 @@ We will monitor the platform and aim for a healthy balance between the interest 
 Our company is a pre seed software development firm that has yet to incorporate and plan to do so in Germany or a suitable EU country. We have been discussing and refining our ideas for sometime already and convinced by the necessity and viability of this idea is now applying at various accelerators and incubators to achieve initial product market fit then scale up.
 
 
-## 6. The Team
+## 6. The Team and Management
 
 **Anselm Kiefner - CEO** 
 * Bachelor of Science
