@@ -55,9 +55,9 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Attended MBA and dropped out after being hired as a full time developer by the university (No units earned).
 * Worked at University as Programmer for 7 years done Y2K related data migration, enterprise line of business (LOB) desktop apps to being a former key member of the pioneer team of developers and graphics designers of the [Mapua University School portal and online enrollment system](https://www.mapua.edu.ph/)
 * Key member of a Finalist Team in the Schools category in the [6th Philippine Web Awards](https://philwebawardsarchive.org/the-6th-philippine-web-awards-2003/) and also won a Matrix themed cosplay contest that was in the aforementioned event.
-* Author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
+* Co-author of one academic paper and inactive member of the [Philippine Physics Society](https://www.philippinephysicssociety.org/)
 [Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
-* Lecturer in the 26th and 27th Philippine Physics Society National Convention/Seminar-Workshop (with certificates)
+* Lecturer in the 26th and 27th Philippine Physics Society National Convention/Seminar-Workshop (with certificates) for paper presentation
 * Worked in a newly furnished and established [Chem / Bio University Research Laboratory](https://ph.locale.online/mapua-research-building-841327544.html) as Laboratory Technician for a year and got [vendor certified with ICP-OES](https://www.perkinelmer.com/category/icp-oes-instruments)
 * Worked with several [US](https://online.rimscentral.com/) and [Scandinavian](https://web.scalepoint.com/) firms via local outsourcing firms as Web developer and Senior Software Developer for six years total and obtained a letter of recommendation from one of them.
 * Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving local schools and universities
