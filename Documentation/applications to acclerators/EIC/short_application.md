@@ -60,6 +60,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Lecturer in the 26th and 27th Philippine Physics Society National Convention/Seminar-Workshop (with certificates) for paper presentation
 * Worked in a newly furnished and established [Chem / Bio University Research Laboratory](https://ph.locale.online/mapua-research-building-841327544.html) as Laboratory Technician for a year and got [vendor certified with ICP-OES](https://www.perkinelmer.com/category/icp-oes-instruments)
 * Worked with several [US](https://online.rimscentral.com/) and [Scandinavian](https://web.scalepoint.com/) firms via local outsourcing firms as Web developer and Senior Software Developer for six years total and obtained a letter of recommendation from [one of them](https://www.linkedin.com/company/worldpartner-inc.).
+* Did initial product specification for a [video sharing and streaming software](https://www.xsplit.com)
 * Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving local schools and universities
 * Done Freelance for both Software Development / Data Science for several firms
 * Former co-founder at two local early stage startups not including this one. 
