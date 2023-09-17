@@ -7,7 +7,7 @@ We need a European champion in this area that will promote liberal western value
 
 Innovations come in many forms, and it does not have to be technical. Countless mature technologies can be applied in ways that are innovative in a social or business sense. We will be a social network that can even be used in developing countries with mature technologies applied in a socially conscious manner, appropriate to target high-growth markets. We have several technical innovations qualifying as research or proof-of-concept in the works, but we will aim to make our platform usable on low-end smartphones and laptops used primarily in poor regions of the world. These technological innovations are non-essential for the success of the platform, but will make the platform more useful and productive.
 
-We will bring the world together without dissolving identity differences, just as the EU brought together former adversaries and deepened our understanding at an individual as well as at a transnational level. We will be a safe space for discussions and transactions online where we can all agree to disagree safely without the toxicity of existing platforms and find common ground and cooperate on matters of utmost importance.
+We will bring the world together without dissolving identity differences, just as the EU brought together former adversaries and deepen our understanding at an individual as well as at a transnational level. We will be a safe space for discussions and transactions online where we can all agree to disagree safely without the toxicity of existing platforms and find common ground and cooperate on matters of utmost importance.
 
 
 ## 2. The Innovation: Solution/Product or Services (USP)
