@@ -61,7 +61,8 @@ Our company is a pre seed software development firm that has yet to incorporate 
 [Development and Validation of an Interactive Mechanics Visualization Software for Vector Addition, Subtraction, and Multiplication Using Python PPJ, Vol. 27 (2005), pp 104-111](https://www.philippinephysicssociety.org/downloads/PPJ%20%20%281-38%29%20Complete.pdf)
 * Lecturer in the 26th and 27th Philippine Physics Society National Convention/Seminar-Workshop (with certificates)
 * Worked with several [US](https://online.rimscentral.com/) and [Scandinavian firms](https://web.scalepoint.com/) via outsourcing firms as Web developer and Senior Software Developer for six years total and obtained a letter of recommendation from one of them.
-* Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving local schools and universiFormer co-founder at two local startups not including this one.
+* Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving local schools and universities
+* Former co-founder at two local startups not including this one.
 * Member of the 3rd best team in [IYLIC 2015](https://www.ifia.com/international-youth-conference/) that was also awarded a special Environmental Gold Medal for presenting the [CRAVAT Project or Coral Reef Assessment Visualization and Advanced Tools](https://projects.pcieerd.dost.gov.ph/project/6562#!)
 * Former faculty for one year at [Philippine Science High School, Main Campus](https://pshs.edu.ph/) 
 * First Prize, Feature Writing Contest, Chematon '91 [University of Santo Thomas](https://www.ust.edu.ph/) for "BIOENERGY- A potential source of renewable energy" while still in high school
