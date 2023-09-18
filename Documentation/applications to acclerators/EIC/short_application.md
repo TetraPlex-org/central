@@ -49,7 +49,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Attended MBA (No Units earned)
 * Dean's Lister
 * Certified Scrum Master (obtained May 2010 and expired May 2012)
-* [Author of 100% Pure Python open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
+* [Author of a 100% Pure Python open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
 * [Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
 * Did a touch screen library data kiosk while still an undergrad at university as a research project using Visual Basic 3.0 in the mid 1990s was also employed in the University Chemistry Testing Lab while doing undergrad as well as the University Computer Lab while in undergrad and while taking a Master's Degree (did not complete masters but earned units)
 * Attended MBA and dropped out after being hired as a full time developer by the university (No units earned).
