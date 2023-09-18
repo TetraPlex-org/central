@@ -14,6 +14,8 @@
 
 * Frank is an entrepreneur and wants someone to test his new web platform. He pays credits to the system, the system takes transaction fees and a freelance tester does the task and files a report for a bounty claim, the tester gets paid in credits after Frank sees the report.
 
+* James is a furry and wants a 🐻 avatar... he sets a bounty for his furry persona (fursona) and a graphics artist designs a reference sheet for his 🐻 OC (Original Character) based on the character bio and description that was on the bounty. The graphics artist was paid credits after the avatar and ref sheet was reviewed and accepted. James now uses the 🐻 avatar in Tetraplex and is very happy and commissions the same artist for his 🦝 avatar and ref sheet.
+
 ## Value Matrix
 
 | Persona Name | Pain Point | Product Value | Message |
