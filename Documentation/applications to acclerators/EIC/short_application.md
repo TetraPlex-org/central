@@ -70,7 +70,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Former faculty for one year at [Philippine Science High School, Main Campus](https://pshs.edu.ph/) 
 * First Prize, Feature Writing Contest, Chematon '91 [University of Santo Thomas](https://www.ust.edu.ph/) for "BIOENERGY- A potential source of renewable energy" while still in high school.
 * Former President of the Young Science Journalist Guild of the Philippines in the late 80's and early 90's
-* Attended a Science Journalism Seminar Workshop in 1991 attended by the best Science and/ or Journalism oriented high school students in the Philippines at that time that was set up by the [Philippine Foundation for Science and Technology](https://pfst.org.ph/about-us/)
+* Attended a Science Journalism Seminar Workshop (with certificate) in 1991 attended by the best Science and/ or Journalism oriented high school students in the Philippines at that time that was set up by the [Philippine Foundation for Science and Technology](https://pfst.org.ph/about-us/)
 * Best in Science, Math and Creative Writing as a High School Student for our batch.
  
 
