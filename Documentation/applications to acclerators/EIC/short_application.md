@@ -32,7 +32,7 @@ Aside from the direct jobs created in the EU as well as attracting qualified lab
 
 ## 5. Company
 
-Our early stage startup is a pre-seed and pre-incorporation software development firm that plans to incorporate in Germany or a suitable EU country. To date, we have a draft founders accord that we all agreed to in principle complete with capitalization table and might have it signed once an EU based laywer reviews the document. We have been discussing and refining our ideas for sometime already and convinced by the necessity and viability of this idea is now applying at various accelerators and incubators to achieve initial product market fit then scale up.
+Our early stage startup is a pre-seed and pre-incorporation software development firm that plans to incorporate in Germany or a suitable EU country. To date, we have a draft founders accord that we all agreed to in principle complete with capitalization table and might have it signed once an EU based lawyer reviews the document. We have been discussing and refining our ideas for sometime already and convinced by the necessity and viability of this idea is now applying at various accelerators and incubators to achieve initial product market fit then scale up.
 
 
 ## 6. The Team
