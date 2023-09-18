@@ -59,7 +59,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Member of the 3rd best team (country representative) in [IYLIC 2015](https://www.ifia.com/international-youth-conference/) (with certificate and medal)
 * Special Environmental Gold Medal for presenting the [DOST](https://www.dost.gov.ph/) project [CRAVAT or Coral Reef Assessment Visualization and Advanced Tools](https://projects.pcieerd.dost.gov.ph/project/6562#!) during IYLIC 2015 (with certificate and medal)
 * Knows too many programming languages had GWBasic in High School in the late 80's, Turbo Basic, Turbo Pascal and Turbo C and gcc in the 90's. Done low level graphics programming in the 90's (Pascal or C with inline asm) as a hobby. Done lots of enterprise line of business stuff with VB 6.0 and Visual Foxpro and attended Visual FoxPro Training (with certificates) in the 90's. Used .net since it first came out. Attended Microsoft Course 2559 (Nov 2003 - with certificate) for VB.net. Had projects that involved C Sharp that is for enterprise LOB (mainly web apps).  Tried R and Julia. Used PhP and plain JS for a picture annotation project for an image recognition project.
-* Used numerous database system starting from Dbase, FoxPro, MS Access, MySQL and PostgreSQL.
+* Used numerous database system starting from Cobol, Dbase, FoxPro, MS Access, MySQL and PostgreSQL.
 * Done Scientific Computing with Matlab and Numpy for a PhD level research project.
 * Did a touch screen library data kiosk while still an undergrad at university as a research project using Visual Basic 3.0 in the mid 1990s
 * Employed part time in the University Chemistry Testing Lab while doing undergrad.
@@ -75,7 +75,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Former faculty for one year at [Philippine Science High School, Main Campus](https://pshs.edu.ph/) 
 * First Prize, Feature Writing Contest, Chematon '91 [University of Santo Thomas](https://www.ust.edu.ph/) for "BIOENERGY- A potential source of renewable energy" while still in high school.
 * Former President of the Young Science Journalist Guild of the Philippines in the late 80's and early 90's while still in high school and university.
-* Attended a Science Journalism Seminar Workshop (with certificate) in 1991 attended by the best Science and/ or Journalism oriented high school students in the Philippines at that time that was set up by the [Philippine Foundation for Science and Technology](https://pfst.org.ph/about-us/)
+* Attended a Science Journalism Seminar Workshop (with certificate) in 1991 attended by the best Science and/or Journalism oriented high school students in the Philippines at that time that was set up by the [Philippine Foundation for Science and Technology](https://pfst.org.ph/about-us/)
 * Best in Science, Math and Creative Writing as a High School Student for our batch.
  
 
