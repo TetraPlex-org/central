@@ -50,7 +50,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Dean's Lister
 * Certified Scrum Master (obtained May 2010 and expired May 2012)
 * [Author of a 100% Pure Python open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
-* Knows too many programming languages had GWBasic in High School in the late 80's, Turbo Basic, Turbo Pascal and Turbo C and gcc in the 90's, Done lots of enterprise line of business stuff with VB 6.0 and Visual Foxpro and attended Visual FoxPro Training in the 90's. Used .net since it first came out. Attended Microsoft Course 2559 (Nov 2003) for VB.net. Had projects that involved C Sharp that is for enterprise LOB (mainly web apps).  Tried R and Julia. Used PhP and plain JS for a picture annotation project for an image recognition project.  Used numerous database system starting from Dbase, FoxPro, MS Access, MySQL and PostgreSQL.  Done Scientific Computing with Matlab and Numpy for a PhD level research project.
+* Knows too many programming languages had GWBasic in High School in the late 80's, Turbo Basic, Turbo Pascal and Turbo C and gcc in the 90's, Done lots of enterprise line of business stuff with VB 6.0 and Visual Foxpro and attended Visual FoxPro Training in the 90's. Used .net since it first came out. Attended Microsoft Course 2559 (Nov 2003) for VB.net. Had projects that involved C Sharp that is for enterprise LOB (mainly web apps).  Tried R and Julia. Used PhP and plain JS for a picture annotation project for an image recognition project.  Used numerous database system starting from Dbase, FoxPro, MS Access, MySQL and PostgreSQL. Done Scientific Computing with Matlab and Numpy for a PhD level research project.
 * [Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
 * Did a touch screen library data kiosk while still an undergrad at university as a research project using Visual Basic 3.0 in the mid 1990s was also employed in the University Chemistry Testing Lab while doing undergrad as well as the University Computer Lab while in undergrad and while taking a Master's Degree (did not complete masters but earned units)
 * Attended MBA and dropped out after being hired as a full time developer by the university (No units earned).
@@ -70,7 +70,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * First Prize, Feature Writing Contest, Chematon '91 [University of Santo Thomas](https://www.ust.edu.ph/) for "BIOENERGY- A potential source of renewable energy" while still in high school.
 * Former President of the Young Science Journalist Guild of the Philippines in the late 80's and early 90's
 * Attended a Science Journalism Seminar Workshop in 1991 attended by the best Science and/ or Journalism oriented high school students in the Philippines at that time that was set up by the [Philippine Foundation for Science and Technology](https://pfst.org.ph/about-us/)
-* Best in Science, Math and Creative Writing as a High School Student for our batch
+* Best in Science, Math and Creative Writing as a High School Student for our batch.
  
 
 ---
