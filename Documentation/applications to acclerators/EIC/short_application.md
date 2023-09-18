@@ -63,7 +63,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Done Scientific Computing with Matlab and Numpy for a PhD level research project.
 * Did a touch screen library data kiosk while still an undergrad at university as a research project using Visual Basic 3.0 in the mid 1990s
 * Employed part time in the University Chemistry Testing Lab while doing undergrad.
-* Employed  part time as the University Computer Lab while in undergrad and while taking a Master's Degree (did not complete masters but earned units) 
+* Employed  part time in the University Computer Lab while in undergrad and while taking a Master's Degree (did not complete masters but earned units) 
 * Attended MBA and dropped out after being hired as a full time developer by the university (No units earned).
 * Worked at University as Programmer for 7 years done Y2K related data migration (VAX Cobol to Visual FoxPro), enterprise line of business (LOB) desktop apps to being a former key member of the pioneer team of developers and graphics designers of the [Mapua University School portal and online enrollment system](https://www.mapua.edu.ph/)
 * Worked in a newly furnished and established [Chem / Bio University Research Laboratory](https://ph.locale.online/mapua-research-building-841327544.html) as Laboratory Technician for a year and got [vendor certified with ICP-OES](https://www.perkinelmer.com/category/icp-oes-instruments)
