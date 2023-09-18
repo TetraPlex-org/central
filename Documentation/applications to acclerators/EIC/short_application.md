@@ -68,6 +68,8 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Member of the 3rd best team in [IYLIC 2015](https://www.ifia.com/international-youth-conference/) that was also awarded a special Environmental Gold Medal for presenting the [CRAVAT Project or Coral Reef Assessment Visualization and Advanced Tools](https://projects.pcieerd.dost.gov.ph/project/6562#!)
 * Former faculty for one year at [Philippine Science High School, Main Campus](https://pshs.edu.ph/) 
 * First Prize, Feature Writing Contest, Chematon '91 [University of Santo Thomas](https://www.ust.edu.ph/) for "BIOENERGY- A potential source of renewable energy" while still in high school.
+* Former President of the Young Science Journalist Guild of the Philippines in the late 80's and early 90's
+* Attended a Science Journalism Seminar Workshop in 1991 attended by the best Science and Journalism orientated students in the Philippines that was set up by the [Philippine Foundation for Science and Technology](https://pfst.org.ph/about-us/)
  
 
 ---
