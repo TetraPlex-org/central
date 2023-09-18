@@ -40,6 +40,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 **Anselm Kiefner - CEO** 
 * Bachelor of Science
 * Expert in Python and notable [author of several open source libraries](https://github.com/amogorkon).
+* Has domain expertise on fuzzy logic (see link above)
 
 ---
 
