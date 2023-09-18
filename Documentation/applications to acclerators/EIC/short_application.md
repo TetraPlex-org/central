@@ -45,9 +45,9 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 
 **Joel Alcarez - CSO/Interim CTO**
 * Bachelor of Science in Chemistry
+* Dean's Lister
 * Attended Masters of Science in Chemistry (Units earned)
 * Attended MBA (No Units earned)
-* Dean's Lister
 * Certified Scrum Master (obtained May 2010 and expired May 2012)
 * [Extensive industry experience spanning 20+ years in IT and academia](https://ph.linkedin.com/in/joel-alcarez-89331321)
 * [Author of a 100% Pure Python open source graphics library](https://github.com/TechnoTanuki/Python_BMP)
