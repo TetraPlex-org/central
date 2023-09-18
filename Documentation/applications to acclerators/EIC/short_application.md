@@ -72,7 +72,8 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Did initial product specification for a [video sharing and streaming software](https://www.xsplit.com)
 * Ran own solo [MARC Library Data](https://www.loc.gov/marc/bibliographic/) Conversion side business for 9 years serving numerous local schools and universities.
 * Done Freelance for both Software Development / Data Science for several firms
-* Former co-founder at two local early stage startups (IOT, Robotics / Social Network for Doctors) not including this one. 
+* Former co-founder at two local early stage startups (IOT, Robotics / Social Network for Doctors) not including this one.
+* Former member of the [university robotics team](https://web.facebook.com/MapuaRoboticsTeam/)
 * Former faculty for one year at [Philippine Science High School, Main Campus](https://pshs.edu.ph/) 
 * First Prize, Feature Writing Contest, Chematon '91 [University of Santo Thomas](https://www.ust.edu.ph/) for "BIOENERGY- A potential source of renewable energy" while still in high school.
 * Former President of the Young Science Journalist Guild of the Philippines in the late 80's and early 90's while still in high school and university.
