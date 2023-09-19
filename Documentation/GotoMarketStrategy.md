@@ -14,6 +14,8 @@
 
 * Frank is an entrepreneur and wants someone to test his new web platform. He pays credits to the system, the system takes transaction fees and a freelance tester does the task and files a report for a bounty claim, the tester gets paid in credits after Frank sees the report.
 
+* James is a furry and wants a 🐻 avatar... he sets a bounty for his furry persona (fursona) and a graphics artist designs a reference sheet for his 🐻 OC (Original Character) based on the character bio and description that was on the bounty. The graphics artist was paid credits after the avatar and ref sheet was reviewed and accepted. James now uses the 🐻 avatar in Tetraplex and is very happy and commissions the same artist for his 🦝 avatar and ref sheet.
+
 ## Value Matrix
 
 | Persona Name | Pain Point | Product Value | Message |
@@ -21,3 +23,6 @@
 | Alice | Too shy to ask a question online on other Q and A platforms | The service has anonymous or veiled Q and A | Don't be shy get answers to questions without revealing your identity |
 | Bob | Wants a non toxic platform for debates and discussions | The service has a karma system and moderation as well as Oxford Style Debates and random veiled group discussions | Lets talk! We keep trolls at bay so you can painlessly say what you want on the issues of the day |
 | Carol | Too shy to make friends but is lonely and bored | The service allows you to do veiled chats and uses personas on top of that to hide real identity | Bored, lonely and socially awkward? We are the social network designed for you. Contruct a Persona for yourself and join! |
+| Alice | Too shy to ask a question online on other Q and A platforms | The service has anonymous or veiled Q and A | Don't be shy get answers to questions without revealing your real identity |
+| Bob | Wants a non toxic platform for debates and discussions | The service has a karma system and moderation as well as Oxford Style Debates and random veiled group discussions | Lets talk! We keep trolls at bay so you can painlessly say what you want on the issues of the day |
+| Carol | Too shy to make friends but is lonely and bored | The service allows you to do veiled chats and uses personas on top of that to hide real identity | Bored, lonely and socially awkward? We are the social network designed for you. Contruct a Persona for yourself and join the fun! |
