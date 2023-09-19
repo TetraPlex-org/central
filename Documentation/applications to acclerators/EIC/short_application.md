@@ -38,9 +38,16 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 ## 6. The Team
 
 **Anselm Kiefner - CEO** 
-* Bachelor of Science
-* Expert in Python and notable [author of several open source libraries](https://github.com/amogorkon).
-* Has domain expertise on fuzzy logic (see link above)
+
+* Bachelor of Science in Pharmaceutical Engineering
+* Studied Medical Informatics and Computer Science
+* Expert in Python with 15+ years of experience and notable [author of several open source libraries](https://github.com/amogorkon).
+* Domain expertise and author of [fuzzylogic](https://github.com/Python-Fuzzylogic/fuzzylogic), which is used in scientific papers and industrial applications
+* Sole student representative on the university council for 2 years
+* Research project on applying steganographic 2D codes in package labeling to leverage blockchain technology in the supply chain and to monitor product lifecycles
+* Research project on automatic detection and evaluation of cell colonies in microscopy imaging using computer vision and genetic programming
+* Proof-of-Concept research project on merging measurement data of unrelated laboratory equipment from different manufactorers applied to the same experiment
+* Research project (Bachelor's thesis) on the application of statistics, wavelets and neural networks for detecting arrhythmia in multi-electrode array data
 
 ---
 
@@ -79,7 +86,7 @@ Our early stage startup is a pre-seed and pre-incorporation software development
 * Former President of the Young Science Journalist Guild of the Philippines in the late 80's and early 90's while still in high school and university.
 * Attended a Science Journalism Seminar Workshop (with certificate) in 1991 attended by the best Science and/or Journalism oriented high school students in the Philippines at that time that was set up by the [Philippine Foundation for Science and Technology](https://pfst.org.ph/about-us/)
 * Best in Science, Math and Creative Writing as a High School Student for our batch.
- 
+
 
 ---
 
