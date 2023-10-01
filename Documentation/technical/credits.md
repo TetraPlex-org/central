@@ -15,6 +15,7 @@ direction LR
     LegalEntity "1" --> "n" Account : identifies
     class Account{
         -Fraction credits
+        +transfer_credits(Fraction amount, Account target_account)
     }
 
     class Bargain{
@@ -74,3 +75,9 @@ We envision credits as an incentive system for those with the financial means to
 * Amy is setting up a new startup and wants a lawyer to review her Founders Agreement. She sets up a bounty and a skilled law student reviewed her documents. The law student made document revisions and told her to consult a real lawyer but the edits made sense and he gets paid after the edits were reviewed.
 
 * James is a [furry](https://furscience.com/whats-a-furry/) and wants a :bear: avatar... he sets a bounty for his furry persona (fursona) and a graphics artist designs a [reference sheet](https://en.wikifur.com/wiki/Character_sheet) for his :bear: OC (Original Character) based on the character bio and description that was on the bounty. The graphics artist was paid credits after the avatar and ref sheet was reviewed and accepted. James now uses the :bear: avatar in Tetraplex and is very happy and commissions the same artist for his 🦝 avatar and ref sheet.
+
+
+## How to get real-life money for Credits? How to get paid out?
+To get money back out of the system, there has to be some kind of contract with the company (or the club). The most basic contract would allow the user to exchange credits to a specific currency at a fixed exchange rate, up to a maximum amount, to be paid out to a specified bank account. Exchange rate and maximum amount may vary, depending on the history with the user(/customer). The same deal would work for businesses as well, just with a lot more legalese.
+
+An alternative approach could be the inverted function of buying credits: The user can sell buckets of 10 credits for a fixed base price, up to 10 buckets, after which an exponential reduction of the price per bucket kicks in, dropping the price quickly close to 0, but never reaching it. This is to prevent people from quickly trading large amounts of credits to destabilize the system (or some other currency!) and also as a mechanism guarding against a potential "bank rush" in case of crisis, where everyone wants to get their money out of the system at the same time. This is a very unlikely scenario, but it is better to be safe than sorry. The price reduction is also a mechanism to prevent people from buying credits in bulk and then selling them at a higher price later, thus causing inflation and cheapening the value for everyone.
