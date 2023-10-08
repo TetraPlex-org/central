@@ -20,6 +20,6 @@
 
 | Persona Name | Pain Point | Product Value | Message |
 |:-------------|:----------:|:-------------:|:-------:|
-| Alice | Too shy to ask a question online on other Q and A platforms | The service has anonymous or veiled Q and A | Don't be shy get answers to questions without revealing your real identity |
+| Alice | Too shy to ask a question online on other Q and A platforms | The service has anonymous or veiled Q and A | Don't be shy get answers to questions without revealing your identity |
 | Bob | Wants a non toxic platform for debates and discussions | The service has a karma system and moderation as well as Oxford Style Debates and random veiled group discussions | Lets talk! We keep trolls at bay so you can painlessly say what you want on the issues of the day |
-| Carol | Too shy to make friends but is lonely and bored | The service allows you to do veiled chats and uses personas on top of that to hide real identity | Bored, lonely and socially awkward? We are the social network designed for you. Contruct a Persona for yourself and join the fun! |
+| Carol | Too shy to make friends but is lonely and bored | The service allows you to do veiled chats and uses personas on top of that to hide real identity | Bored, lonely and socially awkward? We are the social network designed for you. Contruct a Persona for yourself and join! |
