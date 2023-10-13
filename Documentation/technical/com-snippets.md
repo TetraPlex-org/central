@@ -1,0 +1,2 @@
+# Com-Snippets
+Communication snippets (com-snippets) are next to OTR messaging - which is straight text chat with no extras, not even editing or deletion of messages, no type-indicator and no read-receipts - the main way for communication between users. Opposite to OTR messages, com-snippets are standalone message-entities, with linkable persistent identities that can be edited, deleted, shared and composed of multiple parts like text, avatar-animations, images, videos, audio, files, etc. but also other com-snippets, forming threads of conversations.

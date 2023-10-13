@@ -8,5 +8,9 @@ Assuming that OTR works perfectly fine in our system, it is absolutely possible 
 
 ## How to implement OTR
 
+Unlike with com-snippets - the other main way of communication, which takes the opposite approach - otr messages have no identity, since they can't be shared, edited or deleted. OTR messages are plain text, with no special functionality like type-indicator or read receipts. The server does not store them (they are end-to-end encrypted anyway)
+
+
+
 ## Embedding digital watermarks
 A nice way to accomplish this is by use of [JAB Code](https://tritonstore.com.au/what-are-jab-codes/), which is a kind of QR code using all colour channels to encode data, with no quiet zone and the ability to fit any rectangular shape. Adding and subtracting the JAB Code to the least significant bit of the colour channels of the image will not be visible to the human eye, but can be extracted by a computer. This means that the digital watermark can be embedded into the image without the user noticing it. The code can then be extracted from a screenshot and be used to prove that a certain message was sent by a certain user at a certain time and date to a certain recipient.

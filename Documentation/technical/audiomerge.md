@@ -28,3 +28,35 @@ Once the audio files are collected on the **server in userland**, they need to b
 
 ## Denoising
 Since we now have multiple recordings of the same audio, we can apply more sophisticated denoising techniques. We use the [spectral subtraction method](https://en.wikipedia.org/wiki/Spectral_subtraction) to denoise the audio. This method is based on the assumption that the noise is additive and stationary. This is a reasonable assumption, as the noise is mostly the same across all recordings and is not correlated with the audio signal.
+
+
+# Data Aggregation
+```mermaid
+---
+title: Data Aggregation
+---
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart TB
+  TRIGGER(["User starts App on devices A B and C"])-->S1
+  S1["User designates A as *Server in Userland*"]-->S2a & S2b
+  S2a["A opens a port and prints IP/port to screen"]-->S3
+  S2b["A has a flag *recording_active*"]
+  S3["User enters IP/port of A in apps of B and C"]-->S4 & S4b
+  S4["B and C connect to A"]-->S5
+  S4b["B and C poll A for recording flag"]
+  S5["User clicks on *Start Recording* on any device"]-->S6
+  S6["Any device sends *Start Recording as Signal* to A"] -->S7
+  S7["A sets *recording_active* flag to true"]-->S8
+  S8["All devices start recording audio"]-->S9
+  S9["User clicks on *Stop Recording* on any device"]-->S10
+  S10["B and C send their recorded audio to A"]-->S11
+  S11["A aggregates and merges the audio"]--> END
+  END(["User is happy"])
+
+```
+#amqp version: 1.0
+#work queue
+
+https://qpid.apache.org/releases/qpid-proton-0.39.0/proton/python/docs/tutorial.html
+
+https://qpid.apache.org/releases/qpid-proton-0.39.0/proton/python/docs/types.html#types
