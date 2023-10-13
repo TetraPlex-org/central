@@ -7,7 +7,9 @@ The main features of OTR is perfect forward secrecy and deniability. While regul
 Assuming that OTR works perfectly fine in our system, it is absolutely possible to abuse it for nefarious purposes. For example it would be very simple to use it for trolling and spamming users but also for more nefariuos purposes like blackmailing, sexual assaults and other activities that are rightfully outlawed in most countries. So, we have two cases that need to be strictly separated: unrightful assault from outside actors against the two communicating parties they need to be able to defend against and make it impossible to use the communication against them in a court of law. On the other hand, we need to give each of the communicating parties the means to defend themselves against the other party, in case they are being abused in some way. This is done by electively invalidating the whole promise of OTR as outlined above by one of the communicating parties. This is done by embedding digital watermarks into the messages as they are displayed on the client of the user, so that a screenshot of the message can be used as evidence in a court of law. This is different from pure logs of the messages, since the digital watermark is not part of the message itself, but is added by the client of the user. This means that normal use benefits of perfect forward secrecy and deniability and raw logs can't be used as evidence, but screenshots by one of he parties can. This is a good compromise between the two cases outlined above.
 
 ## How to implement OTR
+
 Unlike with com-snippets - the other main way of communication, which takes the opposite approach - otr messages have no identity, since they can't be shared, edited or deleted. OTR messages are plain text, with no special functionality like type-indicator or read receipts. The server does not store them (they are end-to-end encrypted anyway)
+
 
 
 ## Embedding digital watermarks
