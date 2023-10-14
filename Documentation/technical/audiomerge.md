@@ -54,9 +54,3 @@ flowchart TB
   END(["User is happy"])
 
 ```
-#amqp version: 1.0
-#work queue
-
-https://qpid.apache.org/releases/qpid-proton-0.39.0/proton/python/docs/tutorial.html
-
-https://qpid.apache.org/releases/qpid-proton-0.39.0/proton/python/docs/types.html#types
