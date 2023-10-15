@@ -11,10 +11,16 @@ This way, we can ensure that the user is a human and not a bot and that the user
 ### What's in a Name?
 When you get into the Prancing Pony, you cannot choose or change your own name or your personal profile. Instead, you are identified with a combination of a random adjective and a random animal name. This is done to ensure that you don't get identified by your name, but by your actions. Until you have an account, you can't register this name or change it.
 
+
 ### Invitation, please
 Once you got an invitation link, you can create an account. On account creation, some karma is gifted to you, which you can use to unlock the privilege to choose your own name. This is a nice way to introduce the concept of karma to new users and to give them a sense of ownership and responsibility for their own account. Since this is a karma feature, it can be disabled as a punishment for bad behaviour, like using abusive names.
 
 ## Names after Account Creation
+### Account: Name_Mapping
+The account ID is mapped to a seemingly random combination, similar to the one used in the Prancing Pony. This is done to ensure that the account ID is not used to identify the user behind the personas. This is not a karma feature and can't be changed by the user. If the user doesn't select a name or alias for the persona, the name-mapping acts as fallback name for the persona. The name-mapping is always visible to users so it is possible to address someone even if multiple personas share the same name or the user repeatedly changes their name.
+
+The account mapping is generated from the account ID and the persona number on that account. The persona number is the order in which the persona was created. The first persona on an account has the persona number 0, the second persona has the persona number 1 and so on. The persona number is not visible to other users.
+
 ### Account: Call_Name
 On creation of an Account, the user is asked how they want to be addressed internally, by us, in the UI, emails and such. This is not associated in any way with the legal name of the user and it is not visible to other users. The user can change this name at any time, it is not a karma-feature and has nothing to do with other users. It is just a way for us to address the user in a way that they prefer. This is not required to be unique, since it is not used to identify the user in any way.
 
@@ -23,3 +29,38 @@ For the purpose of buying credits and other legal stuff, the user needs to provi
 
 ### Persona: Persona_Name
 To interact with other users, the user needs to create a persona. Part of the persona is a name. Changing this name is a karma feature, since it is used to identify the user in the community. The user can have multiple personas.
+
+
+```mermaid
+---
+title: Names
+---
+classDiagram
+direction LR
+    class LegalEntity{
+        -int legal_entity_id
+        -str legal_name
+    }
+
+    class Account{
+        -int account_id
+        -str call_name
+    }
+
+    class Persona{
+        -int persona_id
+        -str name
+        -str handle
+    }
+    class NameMapping{
+        -int account_id
+        -int persona_id
+        -str mapping_name
+    }
+
+    NameMapping "1" --> "*" Account
+    NameMapping "1" --> "*" Persona
+    LegalEntity "1" --> "*" Account
+
+
+```
