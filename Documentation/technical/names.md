@@ -23,3 +23,32 @@ For the purpose of buying credits and other legal stuff, the user needs to provi
 
 ### Persona: Persona_Name
 To interact with other users, the user needs to create a persona. Part of the persona is a name. Changing this name is a karma feature, since it is used to identify the user in the community. The user can have multiple personas.
+
+```mermaid
+classDiagram
+direction LR
+
+    class LegalEntity{
+        -str legal_name
+    }
+
+    class Account{
+        -str call_name
+    }
+
+    class Persona{
+        -str persona_name
+        -str persona_handle
+    }
+
+    class Control{
+        -int control_id
+        -str control_name
+        -int account_id
+        -int persona_id
+    }
+
+    LegalEntity "1"--"n" Account: identifies
+    Account --> Control: has
+    Control --> Persona: over
+```
